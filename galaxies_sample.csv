@@ -1,0 +1,547 @@
+,cr,cr_range,methods,cover_CR,far_cr,cr_number,r_25,consistence,Spiral_type,Hubble_type,Bar,dist_Mpc
+2MASX J14192411+4554021,12.53,"(4.07, 43.36)",['T-W'],2.16,2.39,1,18.16,Nan,Nan,S0-a,True,119.67
+2MASX J14213483+4021294,24.05,"(15.52, 37.48)",['T-W'],1.06,1.81,1,20.73,Nan,Nan,S?,False,285.76
+CGCG 008-010,21.90,"(20.3, 23.5)",['gaps'],0.12,0.90,1,26.14,Nan,Nan,Sb,False,161.96
+CGCG 013-075,12.60,"(12.0, 13.2)","['gaps', 'rings']",0.05,0.81,2,26.15,14.33,Nan,S0-a,True,112.31
+CGCG 039-041,21.29,"(21.29, 21.29)",['rings'],0.00,0.65,1,32.90,Nan,Nan,S0-a,True,126.42
+CGCG 065-002,12.90,"(12.2, 13.6)",['gaps'],0.06,0.59,1,23.23,Nan,Nan,S0-a,True,80.80
+CGCG 067-004,13.50,"(12.6, 14.4)",['gaps'],0.09,0.72,1,19.93,Nan,Nan,SBa,True,188.54
+CGCG 073-053,10.30,"(10.0, 10.6)",['gaps'],0.03,0.54,1,19.80,Nan,Nan,S0,False,105.00
+CGCG 106-036,17.70,"(16.5, 18.9)",['gaps'],0.10,0.79,1,24.00,Nan,Nan,Sbc,False,105.00
+CGCG 161-122,11.41,"(9.71, 13.33)",['T-W'],0.15,0.53,1,24.95,Nan,Nan,SBb,True,129.54
+CGCG 180-062,22.48,"(22.48, 22.48)",['rings'],0.00,0.86,1,26.15,Nan,Nan,Sab,True,97.10
+CGCG 185-014,11.40,"(11.2, 11.6)",['gaps'],0.01,0.37,1,31.11,Nan,Nan,Sa,True,115.98
+CGCG 197-024,2.48,"(2.06, 2.89)",['T-W'],0.03,0.10,1,29.72,Nan,Nan,SBbc,True,160.69
+CGCG 206-027,6.16,"(4.89, 7.65)",['T-W'],0.13,0.37,1,20.71,Nan,Nan,SBb,True,138.17
+CGCG 208-013,15.53,"(15.53, 15.53)",['rings'],0.00,0.70,1,22.07,Nan,Nan,SBab,True,111.07
+CGCG 213-005,10.40,"(6.0, 32.13)",['T-W'],0.84,1.03,1,31.07,Nan,Nan,SBa,True,109.85
+CGCG 218-022,5.60,"(4.85, 6.55)",['T-W'],0.07,0.29,1,22.91,Nan,Nan,Sbc,False,121.51
+CGCG 223-023,27.71,"(11.35, 104.14)",['T-W'],6.31,7.08,1,14.70,Nan,Nan,SBbc,True,174.58
+CGCG 224-065,21.67,"(14.42, 63.37)",['T-W'],2.10,2.72,1,23.30,Nan,Nan,SBb,True,138.17
+CGCG 224-086,12.08,"(9.91, 14.26)",['T-W'],0.13,0.44,1,32.45,Nan,Nan,SBc,True,134.46
+CGCG 225-011,4.10,"(2.27, 9.29)",['T-W'],0.24,0.32,1,28.98,Nan,Nan,SBc,True,285.76
+CGCG 240-051,4.05,"(2.34, 10.01)",['T-W'],0.42,0.55,1,18.34,Nan,Nan,Sc,False,112.31
+CGCG 241-058,5.88,"(3.75, 11.75)",['T-W'],0.41,0.60,1,19.74,Nan,Nan,Sb,False,131.40
+CGCG 241-078,7.61,"(6.67, 8.55)",['T-W'],0.09,0.42,1,20.32,Nan,Nan,SBb,True,112.31
+CGCG 244-013,21.23,"(21.23, 21.23)",['rings'],0.00,0.63,1,33.88,Nan,Nan,SBb,True,112.31
+CGCG 250-045,3.75,"(2.78, 4.93)",['T-W'],0.08,0.19,1,26.38,Nan,Nan,SBbc,True,195.61
+CGCG 251-011,4.01,"(2.85, 6.33)",['T-W'],0.15,0.27,1,23.30,Nan,Nan,SBb,True,224.08
+CGCG 263-022,22.00,"(20.8, 23.2)",['gaps'],0.08,0.78,1,29.73,Nan,Nan,Sb,False,143.15
+CGCG 263-062,21.87,"(12.5, 65.08)",['T-W'],1.98,2.45,1,26.55,Nan,Nan,SBab,True,140.02
+CGCG 300-033 NED01,20.08,"(20.08, 20.08)",['rings'],0.00,0.66,1,30.64,Nan,Nan,Nan,Nan,Nan
+CGCG 390-059,9.53,"(6.67, 17.33)",['T-W'],0.41,0.66,1,26.15,Nan,Nan,S0-a,False,103.75
+CGCG 390-083,32.16,"(24.22, 52.22)",['T-W'],0.98,1.83,1,28.59,Nan,Nan,SBa,True,158.20
+ESO 138- G 010,16.80,"(16.2, 17.4)","['potential-density', 'potential-density', 'potential-density']",0.01,0.81,3,168.70,246.26,Nan,Sd,False,14.91
+ESO 139- G 009,15.00,"(11.83, 20.31)",['T-W'],0.28,0.68,1,30.00,Nan,Nan,S0,True,75.40
+ESO 281- G 031,19.90,"(15.92, 31.84)",['T-W'],0.48,0.96,1,33.00,Nan,Nan,S0-a,False,76.00
+ESO 325- G 028,17.60,"(16.3, 18.9)",['gaps'],0.06,0.45,1,42.40,Nan,Nan,Sb,True,105.58
+ESO 365- G 035,20.80,"(19.6, 22.0)",['gaps'],0.07,0.68,1,32.15,Nan,Nan,S0-a,True,107.40
+ESO 426- G 002,22.10,"(21.0, 23.2)",['gaps'],0.05,0.50,1,46.45,Nan,Nan,S0-a,True,94.06
+ESO 437- G 033,23.70,"(22.7, 24.7)",['gaps'],0.05,0.56,1,44.35,Nan,Nan,Sa,True,45.77
+ESO 437- G 067,54.00,"(50.3, 57.7)",['gaps'],0.12,0.94,1,61.25,Nan,Nan,Sab,True,43.99
+ESO 566- G 024,26.60,"(25.7, 27.5)",['gaps'],0.04,0.58,1,47.55,Nan,Nan,Sbc,True,48.71
+ESO 575- G 047,36.80,"(34.5, 39.1)",['gaps'],0.09,0.79,1,49.80,Nan,Nan,Sab,True,70.63
+I Zw 125,5.09,"(4.12, 6.82)",['T-W'],0.15,0.39,1,17.50,Nan,Nan,S?,True,303.39
+IC 0035,21.71,"(21.71, 21.71)",['bar-torque'],0.00,0.72,1,30.00,Nan,Nan,Sc,False,66.47
+IC 0239,32.10,"(30.8, 33.4)","['F-B', 'F-B']",0.07,0.57,2,137.15,11.73,Nan,SABc,False,14.91
+IC 0342,572.96,"(572.96, 572.96)","['morph', 'T-W', 'T-W', 'T-W', 'morph', 'metallicity']",2.74,3.70,6,641.40,2.87,Nan,SABc,False,3.44
+IC 0671,6.73,"(6.56, 6.9)",['P-D'],0.01,0.18,1,37.75,Nan,Nan,Sb,True,173.30
+IC 0874,29.68,"(22.15, 44.13)",['T-W'],0.60,1.20,1,36.90,Nan,Nan,S0,True,32.89
+IC 1223,22.50,"(21.5, 23.5)",['gaps'],0.07,0.78,1,30.14,Nan,Nan,Sb,True,135.08
+IC 1251,12.40,"(11.1, 13.7)","['F-B', 'F-B']",0.11,0.54,2,43.35,6.16,F,Sc,False,21.85
+IC 1291,4.00,"(2.6, 5.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.32,0.75,5,54.60,15.21,Nan,Sd,True,32.89
+IC 1438,33.30,"(31.1, 35.5)",['gaps'],0.06,0.49,1,71.95,Nan,Nan,Sa,True,37.55
+IC 1528,6.07,"(4.17, 7.98)",['T-W'],0.05,0.11,1,71.95,Nan,Nan,Nan,Nan,Nan
+IC 1683,19.24,"(10.97, 27.5)",['T-W'],0.42,0.70,1,39.55,Nan,Nan,Sb,False,72.41
+IC 1954,1.36,"(0.0, 2.71)","['T-W', 'T-W']",0.09,0.31,2,94.85,7.41,M,Sb,True,11.46
+IC 2166,8.90,"(5.1, 12.7)","['F-B', 'F-B', 'F-B', 'F-B']",0.46,0.81,4,90.60,8.45,Nan,SABc,False,41.65
+IC 2199,15.30,"(13.0, 17.6)",['F-B'],0.14,0.53,1,32.90,Nan,Nan,SBbc,True,68.23
+IC 2473,35.20,"(33.2, 37.2)",['gaps'],0.08,0.71,1,52.15,Nan,Nan,Sbc,True,119.01
+IC 2486,8.62,"(7.64, 9.6)",['P-D'],0.08,0.38,1,25.55,Nan,Nan,Sbc,True,202.67
+IC 2628,10.00,"(9.6, 10.4)",['gaps'],0.04,0.46,1,22.50,Nan,Nan,SBa,True,186.64
+IC 3003,21.96,"(21.96, 21.96)",['rings'],0.00,0.76,1,28.90,Nan,Nan,S0-a,False,116.57
+IC 3489,13.06,"(13.06, 13.06)",['rings'],0.00,0.79,1,16.50,Nan,Nan,Sbc,False,115.98
+IC 4214,46.20,"(44.2, 48.2)",['gaps'],0.06,0.72,1,67.15,Nan,Nan,SBa,True,32.30
+IC 4441,9.70,"(9.3, 10.1)","['potential-density', 'potential-density']",0.02,0.79,2,52.15,79.25,Nan,Sc,False,63.47
+IC 5273,41.74,"(30.17, 53.32)",['T-W'],0.29,0.66,1,80.75,Nan,M,SBc,True,16.65
+IC 5309,4.33,"(0.83, 7.83)",['T-W'],0.17,0.19,1,40.45,Nan,Nan,Sb,False,61.69
+IC 5325,15.10,"(15.1, 15.1)","['potential-density', 'potential-density', 'potential-density']",0.04,0.51,3,82.65,18.32,M,Sbc,True,19.53
+IC 5355,13.41,"(13.41, 13.41)","['bar-torque', 'bar-torque']",0.00,0.63,2,30.00,inf,Nan,SBc,True,72.41
+KAZ 444,8.49,"(7.35, 9.73)",['T-W'],0.12,0.48,1,20.36,Nan,Nan,SBb,True,123.37
+KUG 0153-102A,6.09,"(5.74, 6.44)",['P-D'],0.02,0.16,1,39.55,Nan,Nan,SBc,True,115.98
+KUG 0906+464,7.86,"(6.72, 9.12)",['T-W'],0.13,0.51,1,17.80,Nan,Nan,SBb,True,119.07
+KUG 1002+468,7.63,"(4.49, 11.47)",['T-W'],0.29,0.48,1,23.68,Nan,Nan,Sb,False,112.31
+KUG 1344+229,12.59,"(10.07, 15.64)",['T-W'],0.32,0.90,1,17.45,Nan,Nan,Sbc,False,119.07
+MCG +06-32-024,11.70,"(11.0, 12.4)","['gaps', 'rings']",0.07,0.75,2,21.25,5.91,Nan,Sab,False,128.88
+MCG +07-18-040,7.60,"(7.1, 8.1)",['gaps'],0.05,0.42,1,19.31,Nan,Nan,SBbc,True,307.47
+MCG +08-19-033,4.25,"(3.48, 5.12)",['T-W'],0.07,0.23,1,21.91,Nan,Nan,SBb,True,273.65
+MCG -01-10-014,5.82,"(5.66, 5.98)","['P-D', 'P-D', 'P-D']",0.02,0.30,3,41.40,23.21,Nan,SABc,False,86.82
+MCG -02-02-030,19.48,"(10.77, 28.19)",['T-W'],0.30,0.48,1,58.50,Nan,Nan,Sa,True,49.89
+MESSIER 031,4185.08,"(4185.08, 4185.08)","['morph', 'metallicity', 'metallicity']",0.36,0.93,3,5716.40,0.19,Nan,Sb,False,0.78
+MESSIER 033,813.60,"(813.6, 813.6)","['morph', 'morph', 'morph', 'metallicity', 'metallicity', 'morph']",0.33,0.81,6,2123.85,7.82,Nan,Sc,False,0.88
+MESSIER 051a,125.10,"(61.2, 189.0)","['offset', 'morph', 'offset', 'morph', 'morph', 'morph', 'metallicity', 'offset', 'offset', 'metallicity', 'morph', 'model', 'model']",0.38,0.89,13,336.60,nan,G,Nan,Nan,Nan
+MESSIER 058,8.70,"(8.7, 8.7)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'T-W', 'P-D', 'offset', 'offset', 'widths']",0.26,0.59,11,176.65,9.32,G,Sb,True,23.59
+MESSIER 061,4.60,"(3.6, 5.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'T-W', 'T-W', 'T-W']",0.42,0.50,15,193.70,6.76,M,Sbc,True,24.17
+MESSIER 063,12.60,"(11.6, 13.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'offset', 'morph', 'morph', 'metallicity']",0.67,1.02,11,377.70,7.13,M,Sbc,False,11.46
+MESSIER 064,37.85,"(23.65, 52.04)",['T-W'],0.09,0.17,1,300.00,Nan,M,SABa,False,8.59
+MESSIER 066,171.00,"(142.5, 199.5)","['offset', 'T-W', 'T-W', 'T-W', 'T-W', 'T-W']",0.60,0.73,6,273.60,4.23,G,Sb,True,11.47
+MESSIER 074,145.20,"(104.76, 185.64)","['offset', 'morph', 'morph', 'metallicity', 'T-W', 'T-W', 'T-W', 'offset', 'offset', 'offset', 'P-D', 'offset', 'offset', 'offset']",0.56,0.73,14,314.15,5.14,M,Sc,False,9.74
+MESSIER 077,34.30,"(34.3, 34.3)","['T-W', 'T-W']",0.00,0.26,2,212.40,inf,G,Nan,Nan,Nan
+MESSIER 081,500.94,"(151.62, 850.26)","['offset', 'morph', 'morph', 'morph', 'metallicity', 'offset', 'offset', 'T-W', 'morph']",0.87,1.05,9,807.45,2.47,G,Sab,False,3.60
+MESSIER 083,188.10,"(146.4, 229.8)","['morph', 'metallicity', 'offset', 'offset', 'metallicity']",0.93,1.35,5,386.45,2.34,M,Sc,True,4.90
+MESSIER 090,1.23,"(0.0, 2.46)","['T-W', 'T-W', 'T-W']",0.23,0.32,3,286.50,2.45,G,Sab,True,11.86
+MESSIER 091,19.00,"(19.0, 19.0)","['potential-density', 'potential-density', 'model', 'T-W', 'P-D', 'P-D', 'P-D']",0.30,0.66,7,161.10,14.14,G,Sb,True,9.16
+MESSIER 094,45.30,"(45.3, 45.3)","['T-W', 'gaps']",0.05,0.76,2,336.60,23.35,Nan,SABa,False,8.02
+MESSIER 095,118.68,"(93.18, 144.18)","['offset', 'morph', 'T-W', 'T-W', 'T-W']",0.54,0.65,5,222.40,2.48,G,Sb,True,12.04
+MESSIER 099,7.50,"(7.5, 7.5)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph', 'morph', 'metallicity', 'model', 'T-W', 'T-W', 'T-W', 'offset', 'offset', 'offset', 'offset', 'offset']",0.52,0.76,16,161.10,12.47,M,Sc,False,36.39
+MESSIER 100,31.80,"(28.4, 35.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'offset', 'T-W', 'morph', 'offset', 'offset', 'morph', 'T-W', 'T-W', 'T-W', 'T-W', 'offset', 'offset', 'F-B', 'model', 'model', 'model', 'T-W', 'T-W', 'T-W', 'morph']",0.70,0.89,29,222.40,nan,G,SABb,False,24.75
+MESSIER 101,463.35,"(463.35, 463.35)","['morph', 'T-W', 'T-W', 'morph', 'morph', 'metallicity', 'offset', 'offset', 'metallicity']",0.45,0.64,9,865.20,9.88,M,SABc,False,8.02
+MESSIER 109,46.25,"(43.13, 49.36)","['T-W', 'morph']",0.04,0.51,2,227.55,21.17,M,Sbc,True,18.96
+NGC 0036,12.21,"(8.43, 17.44)",['T-W'],0.14,0.27,1,65.65,Nan,Nan,SABb,False,87.42
+NGC 0150,38.00,"(38.0, 38.0)","['potential-density', 'potential-density']",0.00,0.62,2,116.70,inf,G,SBbc,True,20.69
+NGC 0157,77.35,"(77.35, 77.35)","['morph', 'offset', 'potential-density', 'potential-density', 'potential-density', 'morph', 'offset', 'morph']",0.04,0.62,8,125.05,71.44,G,SABb,False,23.00
+NGC 0165,8.52,"(7.35, 9.69)",['P-D'],0.05,0.21,1,46.45,Nan,Nan,Sbc,True,84.41
+NGC 0192,41.20,"(34.79, 47.61)",['T-W'],0.22,0.83,1,57.15,Nan,Nan,Sa,True,59.92
+NGC 0201,11.38,"(10.55, 12.21)",['P-D'],0.03,0.22,1,54.60,Nan,Nan,Sc,True,62.89
+NGC 0210,36.70,"(32.9, 40.5)","['potential-density', 'potential-density', 'morph', 'gaps']",0.23,0.75,4,150.35,9.74,G,SABb,False,22.43
+NGC 0266,7.98,"(6.18, 9.78)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'offset', 'offset', 'offset', 'offset', 'P-D', 'widths', 'widths']",0.47,0.79,12,88.55,23.05,Nan,Sab,True,68.83
+NGC 0271,40.50,"(25.78, 68.12)",['T-W'],0.66,1.06,1,64.15,Nan,Nan,Sab,True,58.16
+NGC 0278,25.30,"(25.3, 25.3)",['potential-density'],0.00,0.40,1,62.70,Nan,Nan,SABb,False,12.04
+NGC 0289,3.90,"(3.6, 4.2)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'model', 'morph']",0.32,0.87,6,153.85,14.01,M,SBbc,True,21.27
+NGC 0309,6.47,"(5.52, 7.42)","['P-D', 'P-D', 'P-D']",0.03,0.10,3,90.60,2.11,Nan,SABc,False,80.80
+NGC 0364,7.53,"(4.3, 10.77)",['T-W'],0.15,0.25,1,42.40,Nan,Nan,S0,True,73.62
+NGC 0428,5.80,"(3.6, 8.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'P-D']",0.38,1.20,11,122.20,62.84,F,SABm,False,16.07
+NGC 0488,13.60,"(12.8, 14.4)","['potential-density', 'potential-density', 'potential-density', 'widths', 'widths']",0.14,0.45,5,157.45,13.95,M,Sb,False,32.30
+NGC 0514,29.10,"(26.4, 31.8)",['morph'],0.05,0.31,1,104.00,Nan,M,SABc,False,35.81
+NGC 0551,12.94,"(6.1, 19.79)",['T-W'],0.25,0.36,1,54.60,Nan,Nan,SBbc,True,77.20
+NGC 0570,44.41,"(44.41, 44.41)",['rings'],0.00,0.96,1,46.45,Nan,Nan,Sa,True,79.00
+NGC 0575,5.97,"(5.97, 5.97)","['bar-torque', 'bar-torque', 'bar-torque']",0.00,0.50,3,50.95,inf,Nan,Sc,True,46.34
+NGC 0578,19.10,"(19.1, 19.1)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'offset', 'offset']",0.30,0.69,7,146.95,8.48,M,Sc,True,21.27
+NGC 0613,5.00,"(5.0, 5.0)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'morph']",0.21,0.85,6,164.85,15.59,M,Sbc,True,18.96
+NGC 0672,10.90,"(9.0, 12.8)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.16,0.55,5,217.35,21.30,F,SBc,True,7.21
+NGC 0674,10.50,"(9.0, 12.0)","['F-B', 'F-B', 'F-B', 'F-B']",0.16,0.51,4,134.00,14.13,Nan,Nan,Nan,Nan
+NGC 0685,19.30,"(19.3, 19.3)","['potential-density', 'potential-density', 'morph', 'T-W', 'T-W']",0.51,0.83,5,111.45,5.72,F,Sc,True,16.07
+NGC 0718,26.70,"(21.2, 32.2)","['offset', 'offset', 'offset']",0.17,0.47,3,70.35,0.97,G,Sa,True,24.17
+NGC 0753,4.10,"(2.2, 6.0)","['F-B', 'F-B', 'F-B', 'F-B', 'morph', 'offset']",0.37,0.79,6,75.35,15.20,Nan,SABc,False,72.41
+NGC 0864,5.80,"(3.6, 8.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'bar-torque', 'bar-torque', 'morph', 'offset', 'offset', 'offset', 'offset']",0.42,0.74,15,140.30,22.96,M,SABc,False,21.85
+NGC 0895,60.00,"(55.2, 64.8)","['morph', 'offset', 'widths', 'widths']",0.20,0.69,4,108.90,4.27,M,Sc,False,31.72
+NGC 0908,7.90,"(7.3, 8.5)","['potential-density', 'potential-density', 'potential-density']",0.01,0.43,3,180.75,153.55,M,SABc,False,19.53
+NGC 0918,39.60,"(34.7, 44.5)",['offset'],0.09,0.43,1,104.00,Nan,M,Nan,Nan,Nan
+NGC 0925,36.10,"(34.7, 37.5)","['F-B', 'F-B', 'F-B', 'F-B', 'offset', 'morph', 'morph']",0.17,0.74,7,314.15,24.96,Nan,Scd,True,9.16
+NGC 0936,55.09,"(43.09, 67.08)",['T-W'],0.17,0.48,1,140.30,Nan,Nan,S0-a,True,19.53
+NGC 0972,37.33,"(37.33, 37.33)",['morph'],0.00,0.38,1,99.35,Nan,Nan,Sab,False,23.00
+NGC 0986,43.90,"(34.7, 53.1)","['offset', 'offset', 'offset', 'offset']",0.21,0.46,4,116.70,3.29,G,Nan,Nan,Nan
+NGC 1012,13.50,"(11.7, 15.3)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.23,0.96,5,75.35,24.56,Nan,S0-a,False,15.50
+NGC 1023,72.43,"(64.3, 80.56)",['T-W'],0.06,0.31,1,261.30,Nan,Nan,E-S0,True,10.89
+NGC 1042,3.30,"(3.3, 3.3)","['potential-density', 'potential-density', 'potential-density', 'morph', 'P-D', 'P-D', 'P-D', 'offset', 'offset']",0.32,0.61,9,140.30,15.24,M,SABc,False,17.80
+NGC 1058,26.60,"(22.0, 31.2)","['F-B', 'F-B', 'F-B', 'potential-density']",0.18,0.63,4,90.60,9.21,Nan,Sc,False,9.16
+NGC 1073,38.00,"(38.0, 38.0)","['potential-density', 'potential-density', 'model', 'morph', 'P-D']",0.13,0.61,5,146.95,14.32,M,SBc,True,16.07
+NGC 1079,83.50,"(77.0, 90.0)",['gaps'],0.12,0.87,1,104.00,Nan,Nan,SABa,False,17.80
+NGC 1084,55.86,"(55.86, 55.86)","['morph', 'potential-density', 'potential-density', 'morph']",0.03,0.58,4,97.10,35.02,F,Sc,False,18.96
+NGC 1087,2.10,"(2.1, 2.1)","['potential-density', 'potential-density', 'T-W', 'T-W', 'T-W', 'P-D', 'P-D', 'P-D']",0.40,0.62,8,111.45,5.64,F,Sc,True,20.69
+NGC 1097,96.60,"(66.09, 127.1)","['T-W', 'T-W']",0.23,0.48,2,280.00,1.14,G,SBb,True,15.50
+NGC 1187,13.00,"(11.1, 14.9)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph']",0.24,0.69,5,164.85,10.03,M,Sc,True,17.23
+NGC 1232,73.50,"(70.8, 76.2)","['morph', 'morph', 'metallicity']",0.21,0.76,3,222.40,4.44,M,SABc,False,20.69
+NGC 1241,12.40,"(11.3, 13.5)","['potential-density', 'model']",0.12,0.54,2,84.55,7.01,Nan,SBb,True,56.36
+NGC 1291:[LET2019] 052,175.00,"(168.7, 181.3)",['gaps'],0.04,0.62,1,293.15,Nan,Nan,Nan,Nan,Nan
+NGC 1300,54.80,"(53.4, 56.2)","['potential-density', 'potential-density', 'morph', 'morph', 'T-W', 'T-W', 'T-W', 'T-W', 'offset']",0.39,0.77,9,185.00,6.97,G,Sbc,True,20.11
+NGC 1302,31.00,"(31.0, 31.0)","['potential-density', 'potential-density', 'potential-density', 'model']",0.08,0.72,4,116.70,16.36,Nan,S0-a,True,21.85
+NGC 1308,8.97,"(6.66, 13.51)",['T-W'],0.19,0.38,1,35.25,Nan,Nan,S0-a,True,90.45
+NGC 1309,7.80,"(7.8, 7.8)","['potential-density', 'potential-density', 'potential-density']",0.06,0.55,3,65.65,17.54,F,Sbc,False,28.24
+NGC 1317,18.80,"(18.8, 18.8)","['potential-density', 'potential-density', 'potential-density', 'model', 'T-W', 'T-W']",0.57,1.28,6,82.65,13.12,Nan,SABa,False,24.75
+NGC 1326,62.50,"(57.6, 67.4)",['gaps'],0.08,0.58,1,116.70,Nan,Nan,S0-a,True,16.07
+NGC 1350,11.80,"(10.7, 12.9)","['potential-density', 'potential-density']",0.01,0.86,2,157.45,112.00,G,Sab,True,24.17
+NGC 1358,23.26,"(16.17, 42.49)",['T-W'],0.34,0.55,1,77.10,Nan,Nan,S0-a,True,56.36
+NGC 1365,291.00,"(288.0, 294.0)","['morph', 'metallicity', 'T-W', 'T-W', 'P-D', 'model', 'model', 'morph']",0.52,0.87,8,336.60,10.61,G,Sb,True,20.11
+NGC 1371,19.50,"(19.5, 19.5)","['potential-density', 'potential-density', 'potential-density']",0.00,0.48,3,168.70,inf,G,Sa,True,17.80
+NGC 1385,31.90,"(31.9, 31.9)","['potential-density', 'T-W', 'T-W', 'T-W', 'T-W', 'T-W', 'T-W']",0.41,0.66,7,101.65,5.06,F,Sc,True,18.38
+NGC 1398,88.70,"(84.9, 92.5)",['gaps'],0.04,0.44,1,212.40,Nan,M,SBab,True,17.23
+NGC 1417,26.80,"(23.9, 29.7)","['offset', 'offset', 'offset']",0.14,0.43,3,80.75,1.01,Nan,Nan,Nan,Nan
+NGC 1421,72.60,"(58.7, 86.5)","['offset', 'offset', 'offset']",297.23,169.56,3,106.45,0.19,G,Nan,Nan,Nan
+NGC 1433,1.23,"(0.0, 2.46)","['T-W', 'T-W', 'T-W', 'T-W', 'T-W', 'T-W', 'gaps']",0.51,0.73,7,193.70,13.73,G,SBa,True,11.47
+NGC 1440,38.10,"(31.09, 48.75)",['T-W'],0.28,0.76,1,64.15,Nan,Nan,S0,True,20.12
+NGC 1493,37.50,"(37.5, 37.5)","['potential-density', 'morph']",0.09,0.48,2,104.00,1.87,F,SBc,True,11.46
+NGC 1511,4.30,"(0.0, 8.59)","['T-W', 'T-W', 'T-W']",0.35,0.46,3,104.00,3.18,Nan,Sab,False,15.50
+NGC 1512,64.61,"(38.37, 90.85)","['T-W', 'T-W', 'T-W']",0.20,0.34,3,267.40,0.00,G,Sa,True,9.16
+NGC 1530,9.00,"(6.6, 11.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'P-D', 'P-D']",0.28,0.75,9,137.15,30.94,Nan,SBb,True,39.32
+NGC 1546,27.22,"(22.92, 31.51)",['T-W'],0.09,0.35,1,90.60,Nan,G,S0-a,False,14.34
+NGC 1559,18.60,"(18.6, 18.6)","['potential-density', 'T-W', 'T-W', 'T-W', 'T-W']",0.62,0.85,5,104.00,6.15,F,SBc,True,14.91
+NGC 1566,98.70,"(93.6, 103.8)","['morph', 'T-W', 'T-W', 'T-W', 'offset', 'offset', 'P-D']",0.60,0.67,7,249.55,2.77,G,SABb,False,17.80
+NGC 1617,14.20,"(14.2, 14.2)","['potential-density', 'potential-density']",0.00,0.30,2,127.95,inf,Nan,SBa,True,11.46
+NGC 1637,3.20,"(3.2, 3.2)","['potential-density', 'potential-density', 'potential-density', 'morph']",0.09,0.42,4,119.45,16.82,M,Sc,True,8.59
+NGC 1645,12.49,"(8.57, 19.42)",['T-W'],0.16,0.28,1,68.75,Nan,Nan,S0-a,True,68.83
+NGC 1672,34.67,"(24.27, 45.07)","['T-W', 'T-W', 'T-W']",0.29,0.41,3,198.20,1.85,G,Sb,True,15.50
+NGC 1703,25.50,"(25.5, 25.5)","['potential-density', 'potential-density']",0.00,0.67,2,88.55,inf,M,SBb,True,17.80
+NGC 1792,37.00,"(37.0, 37.0)","['potential-density', 'potential-density', 'T-W']",0.08,0.35,3,157.45,6.53,M,Sbc,True,13.77
+NGC 1808,7.00,"(6.8, 7.2)","['potential-density', 'potential-density', 'potential-density']",0.00,0.55,3,193.70,619.32,G,Sa,True,10.89
+NGC 1809,14.09,"(2.75, 25.44)",['T-W'],0.24,0.27,1,94.85,Nan,Nan,Sc,False,14.91
+NGC 1832,48.92,"(48.92, 48.92)","['morph', 'potential-density', 'potential-density', 'model']",0.08,0.63,4,77.10,12.30,Nan,Sbc,True,25.33
+NGC 2090,25.10,"(25.1, 25.1)","['potential-density', 'potential-density', 'T-W', 'T-W']",0.13,0.54,4,146.95,14.26,Nan,Sbc,False,9.74
+NGC 2139,21.70,"(21.7, 21.7)",['potential-density'],0.00,0.28,1,78.90,Nan,Nan,Sc,True,23.58
+NGC 2196,12.80,"(11.0, 14.6)","['potential-density', 'potential-density']",0.04,0.77,2,84.55,28.89,Nan,Sa,False,30.56
+NGC 2273,30.00,"(30.0, 30.0)",['P-D'],0.00,0.31,1,97.10,Nan,Nan,Sa,True,29.39
+NGC 2276,47.50,"(45.7, 49.3)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.21,1.08,5,84.55,18.63,Nan,SABc,False,39.32
+NGC 2283,1.98,"(0.0, 3.97)","['T-W', 'T-W']",0.12,0.39,2,108.90,7.42,Nan,Sc,True,9.16
+NGC 2336,35.40,"(33.6, 37.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph']",0.26,0.62,8,212.40,17.35,Nan,Sbc,True,35.81
+NGC 2342,7.90,"(6.4, 9.4)","['F-B', 'F-B', 'F-B']",0.23,0.64,3,41.40,7.72,Nan,Sc,False,75.40
+NGC 2344,17.60,"(16.3, 18.9)","['F-B', 'F-B', 'F-B', 'F-B']",0.26,1.30,4,50.95,20.13,Nan,SABb,False,16.07
+NGC 2403,218.40,"(195.0, 241.8)","['offset', 'morph', 'T-W', 'metallicity', 'metallicity']",0.18,0.65,5,656.35,7.17,Nan,SABc,False,3.20
+NGC 2442,11.40,"(8.8, 14.0)","['potential-density', 'potential-density']",0.03,0.53,2,164.85,28.92,Nan,Sbc,True,17.23
+NGC 2449,17.75,"(14.74, 20.76)",['T-W'],0.15,0.51,1,40.45,Nan,Nan,SBab,True,71.22
+NGC 2500,16.40,"(15.2, 17.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.17,0.89,5,86.50,34.15,F,Scd,True,9.74
+NGC 2503,10.15,"(9.94, 10.36)",['P-D'],0.01,0.33,1,31.40,Nan,Nan,Sbc,True,80.20
+NGC 2523,44.32,"(44.32, 44.32)",['T-W'],0.00,0.50,1,88.55,Nan,Nan,Sbc,True,54.00
+NGC 2541,10.80,"(6.0, 15.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.25,0.53,5,189.30,12.85,F,SABc,False,10.31
+NGC 2543,7.70,"(5.9, 9.5)","['F-B', 'F-B', 'F-B', 'F-B', 'P-D', 'P-D', 'widths']",0.32,1.16,7,70.35,24.22,G,Sb,True,36.97
+NGC 2552,16.60,"(14.9, 18.3)","['F-B', 'F-B', 'F-B']",0.13,0.67,3,104.00,16.29,F,SABm,False,9.74
+NGC 2553,12.00,"(9.24, 14.77)",['T-W'],0.21,0.56,1,26.15,Nan,Nan,Sa,False,67.64
+NGC 2559,38.50,"(38.5, 38.5)",['potential-density'],0.00,0.35,1,111.45,Nan,Nan,SBc,True,19.53
+NGC 2566,56.20,"(56.2, 56.2)","['potential-density', 'potential-density', 'T-W']",0.39,0.97,3,101.65,4.16,Nan,Sb,True,20.69
+NGC 2595,8.90,"(7.7, 10.1)","['F-B', 'F-B', 'F-B', 'F-B']",0.13,0.48,4,94.85,16.17,Nan,Sc,True,62.89
+NGC 2649,13.00,"(10.4, 15.6)","['F-B', 'F-B', 'F-B']",0.33,0.80,3,47.55,6.18,Nan,SABb,False,62.89
+NGC 2665,42.40,"(39.7, 45.1)",['gaps'],0.09,0.74,1,61.25,Nan,Nan,Sa,True,23.00
+NGC 2766,21.30,"(20.9, 21.7)",['gaps'],0.02,0.54,1,40.45,Nan,Nan,SBab,True,61.72
+NGC 2775,64.00,"(64.0, 64.0)","['potential-density', 'potential-density', 'T-W']",0.03,0.81,3,127.95,37.85,Nan,Sab,False,19.53
+NGC 2805,16.90,"(15.1, 18.7)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.14,0.74,7,189.30,57.19,M,SABc,False,28.24
+NGC 2835,46.97,"(37.78, 56.16)","['T-W', 'T-W', 'T-W']",0.09,0.28,3,198.20,0.65,Nan,Sc,True,10.89
+NGC 2840,8.68,"(6.94, 10.42)",['P-D'],0.11,0.33,1,31.40,Nan,Nan,Sbc,True,110.46
+NGC 2841,154.56,"(149.04, 160.08)",['offset'],0.05,0.66,1,243.85,Nan,M,SBb,True,12.04
+NGC 2880,10.56,"(7.1, 14.01)",['T-W'],0.11,0.23,1,61.25,Nan,Nan,E-S0,True,24.75
+NGC 2903,140.99,"(140.99, 140.99)","['morph', 'morph', 'metallicity', 'offset', 'offset', 'metallicity', 'widths', 'widths']",0.27,0.51,8,377.70,2.48,M,Sbc,True,9.16
+NGC 2950,39.54,"(31.99, 50.2)",['T-W'],0.23,0.62,1,80.75,Nan,Nan,S0,True,22.43
+NGC 2964,3.00,"(3.0, 3.0)","['potential-density', 'potential-density', 'P-D', 'widths']",0.15,0.58,4,86.50,10.55,M,Sbc,True,20.69
+NGC 2967,21.90,"(21.0, 22.8)",['morph'],0.02,0.25,1,90.60,Nan,M,Sc,False,27.06
+NGC 2977,6.70,"(3.8, 9.6)","['F-B', 'F-B', 'F-B']",0.40,0.71,3,54.60,5.62,Nan,Sb,False,48.11
+NGC 2985,43.20,"(40.6, 45.8)","['F-B', 'F-B', 'F-B', 'F-B']",0.19,0.63,4,137.15,9.08,M,Sab,False,23.00
+NGC 2997,106.33,"(50.2, 162.46)","['T-W', 'P-D', 'P-D']",0.42,0.61,3,267.40,0.87,Nan,SABc,False,13.19
+NGC 3003,12.90,"(11.3, 14.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.15,0.66,6,172.65,37.91,Nan,Sbc,True,23.00
+NGC 3041,16.00,"(11.4, 20.6)","['F-B', 'F-B', 'F-B', 'F-B']",0.28,0.66,4,111.45,9.59,M,SABc,False,21.27
+NGC 3059,25.90,"(23.9, 27.9)","['potential-density', 'morph', 'T-W', 'T-W', 'offset', 'offset']",0.52,0.65,6,108.90,4.26,Nan,SBbc,True,14.34
+NGC 3061,9.30,"(8.2, 10.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'bar-torque', 'bar-torque', 'bar-torque', 'bar-torque']",0.30,0.73,9,49.80,24.31,F,Sc,True,39.32
+NGC 3081,59.10,"(56.4, 61.8)",['gaps'],0.09,0.99,1,62.70,Nan,Nan,S0-a,True,32.89
+NGC 3104,19.30,"(16.2, 22.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.28,0.95,6,99.35,24.88,Nan,IAB,False,11.46
+NGC 3109,562.54,"(562.54, 562.54)",['morph'],0.00,0.98,1,571.65,Nan,Nan,SBm,True,1.29
+NGC 3137,62.99,"(56.76, 69.22)",['T-W'],0.07,0.37,1,189.30,Nan,Nan,SABc,False,13.77
+NGC 3147,7.00,"(5.4, 8.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.23,0.67,5,116.70,19.39,M,Sbc,False,44.59
+NGC 3162,13.60,"(12.0, 15.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'offset', 'offset']",0.94,1.27,8,90.60,4.56,M,SABc,False,20.12
+NGC 3166,54.60,"(49.8, 59.4)",['potential-density'],0.07,0.41,1,143.60,Nan,Nan,S0-a,True,19.53
+NGC 3184,126.96,"(84.24, 169.68)","['offset', 'morph']",0.39,0.76,2,222.40,1.07,M,SABc,False,11.46
+NGC 3223,23.20,"(23.2, 23.2)","['potential-density', 'potential-density']",0.00,0.51,2,122.20,inf,Nan,Sb,False,39.32
+NGC 3227,47.00,"(42.3, 51.7)","['potential-density', 'potential-density']",0.06,0.67,2,161.10,13.13,G,SABa,False,17.80
+NGC 3237,27.72,"(27.72, 27.72)",['rings'],0.00,0.72,1,38.65,Nan,Nan,S0,True,104.38
+NGC 3261,28.60,"(28.6, 28.6)","['potential-density', 'potential-density', 'potential-density', 'model']",0.08,0.47,4,111.45,7.89,Nan,Sbc,True,34.06
+NGC 3275,6.10,"(5.9, 6.3)","['potential-density', 'potential-density', 'model']",0.14,0.58,3,84.55,9.75,Nan,Sab,True,43.41
+NGC 3294,43.20,"(39.0, 47.4)",['morph'],0.08,0.45,1,106.45,Nan,M,SABc,False,25.33
+NGC 3300,28.29,"(21.24, 37.75)",['T-W'],0.29,0.66,1,57.15,Nan,Nan,S0,True,44.59
+NGC 3310,20.60,"(18.5, 22.7)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.48,0.93,5,92.70,9.50,G,SABb,False,17.80
+NGC 3319,9.50,"(9.5, 9.5)","['potential-density', 'potential-density', 'potential-density', 'morph', 'metallicity']",0.13,0.68,5,185.00,20.08,G,SBc,True,13.19
+NGC 3338,18.10,"(16.7, 19.5)","['potential-density', 'potential-density', 'potential-density', 'morph']",0.05,0.92,4,176.65,65.95,M,Sc,False,19.53
+NGC 3344,58.70,"(54.9, 62.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'T-W', 'morph', 'widths']",0.38,0.71,12,212.40,20.37,M,Sbc,True,10.31
+NGC 3346,15.50,"(13.5, 17.5)","['F-B', 'F-B', 'F-B', 'morph', 'morph']",0.24,0.84,5,86.50,13.31,F,Sc,True,18.96
+NGC 3359,95.10,"(86.4, 103.8)","['morph', 'P-D', 'metallicity', 'model']",0.15,0.55,4,217.35,12.78,M,Sc,True,18.38
+NGC 3374,7.29,"(6.95, 7.63)",['P-D'],0.02,0.20,1,37.75,Nan,Nan,Sc,True,111.69
+NGC 3380,31.60,"(29.3, 33.9)",['gaps'],0.09,0.67,1,50.95,Nan,Nan,SBa,True,25.33
+NGC 3389,35.75,"(35.75, 35.75)",['morph'],0.00,0.43,1,82.65,Nan,F,Sc,False,19.53
+NGC 3412,62.23,"(49.14, 85.2)",['T-W'],0.33,0.78,1,108.90,Nan,Nan,S0,True,13.19
+NGC 3423,17.90,"(16.6, 19.2)","['potential-density', 'morph']",0.04,0.39,2,114.05,14.64,F,Sc,False,14.92
+NGC 3430,11.70,"(9.9, 13.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.27,0.84,5,119.45,19.13,M,Sc,True,25.33
+NGC 3433,31.50,"(30.6, 32.4)",['morph'],0.02,0.30,1,106.45,Nan,G,Sc,False,39.90
+NGC 3464,24.30,"(24.0, 24.6)",['morph'],0.01,0.32,1,77.10,Nan,Nan,Sc,True,52.82
+NGC 3485,13.71,"(11.85, 15.57)",['P-D'],0.05,0.23,1,68.75,Nan,M,Sb,True,21.85
+NGC 3486,75.60,"(63.6, 87.6)",['morph'],0.11,0.41,1,212.40,Nan,M,Sc,True,12.04
+NGC 3504,9.90,"(7.7, 12.1)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'model', 'P-D']",0.41,0.84,10,80.75,19.88,G,Sab,True,24.17
+NGC 3507,26.30,"(26.3, 26.3)","['potential-density', 'potential-density', 'model', 'T-W', 'T-W', 'T-W']",0.54,0.60,6,101.65,4.19,G,SBb,True,15.50
+NGC 3511,84.99,"(63.23, 106.76)",['T-W'],0.25,0.62,1,172.65,Nan,M,SABc,False,14.91
+NGC 3513,2.00,"(2.0, 2.0)","['potential-density', 'potential-density', 'model', 'morph', 'offset', 'offset', 'offset', 'offset', 'offset', 'offset']",0.99,1.21,10,84.55,9.37,G,SBc,True,16.07
+NGC 3516,21.00,"(21.0, 21.0)",['P-D'],0.00,0.40,1,52.15,Nan,Nan,S0,True,41.65
+NGC 3521,132.00,"(119.04, 144.96)","['offset', 'morph', 'T-W']",0.11,0.54,3,328.95,6.71,M,SABb,False,12.04
+NGC 3577,10.81,"(10.61, 11.01)",['P-D'],0.01,0.26,1,42.40,Nan,Nan,Sa,True,80.80
+NGC 3583,3.30,"(3.3, 3.3)","['potential-density', 'potential-density', 'potential-density', 'model', 'P-D', 'widths']",0.18,0.76,6,84.55,18.05,G,Sb,True,34.06
+NGC 3593,35.36,"(35.36, 35.36)","['morph', 'potential-density', 'potential-density', 'potential-density']",0.01,0.33,4,157.45,87.51,Nan,S0-a,False,10.31
+NGC 3596,8.30,"(7.0, 9.6)","['F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph', 'T-W']",0.38,0.60,10,119.45,8.25,M,SABc,False,18.38
+NGC 3621,134.40,"(86.4, 182.4)","['offset', 'metallicity', 'T-W']",0.43,0.82,3,369.10,3.87,Nan,SBcd,True,8.59
+NGC 3626,15.21,"(11.34, 19.08)",['T-W'],0.10,0.24,1,80.75,Nan,G,S0-a,False,23.00
+NGC 3631,63.60,"(58.2, 69.0)","['morph', 'morph']",0.07,0.46,2,150.35,0.00,M,Sc,False,20.12
+NGC 3646,15.40,"(15.4, 15.4)","['potential-density', 'potential-density']",0.00,0.64,2,116.70,inf,Nan,Sc,False,62.89
+NGC 3668,9.36,"(9.15, 9.57)",['P-D'],0.01,0.18,1,52.15,Nan,Nan,SBbc,True,53.43
+NGC 3675,6.70,"(6.7, 6.7)","['potential-density', 'potential-density', 'potential-density']",0.00,0.47,3,176.65,inf,M,Sb,False,14.34
+NGC 3681,20.40,"(20.4, 20.4)",['potential-density'],0.00,0.27,1,75.35,Nan,M,Sbc,True,19.53
+NGC 3684,27.70,"(27.7, 27.7)","['potential-density', 'potential-density', 'morph']",0.06,0.66,3,92.70,14.14,M,Sbc,False,18.38
+NGC 3686,41.80,"(41.8, 41.8)","['potential-density', 'model', 'morph']",0.17,0.49,3,97.10,1.27,M,SBbc,True,18.38
+NGC 3719,11.00,"(8.9, 13.1)","['F-B', 'F-B', 'F-B', 'F-B']",0.34,0.85,4,53.35,9.05,Nan,Sbc,False,85.62
+NGC 3720,4.60,"(2.0, 7.2)","['F-B', 'F-B']",0.33,0.45,2,28.65,1.89,Nan,Sab,False,86.22
+NGC 3726,25.20,"(22.4, 28.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'P-D', 'offset', 'offset', 'offset']",0.61,0.84,18,185.00,27.92,M,Sc,True,16.07
+NGC 3810,14.20,"(14.2, 14.2)","['potential-density', 'potential-density', 'potential-density', 'morph', 'model']",0.19,0.65,5,127.95,10.08,M,Sc,False,15.50
+NGC 3840,4.50,"(2.8, 6.2)","['F-B', 'F-B', 'F-B']",0.33,0.71,3,32.15,6.59,Nan,Sa,False,108.64
+NGC 3887,28.00,"(28.0, 28.0)","['potential-density', 'potential-density', 'morph']",0.02,0.57,3,99.35,41.34,M,Sbc,True,17.23
+NGC 3893,13.00,"(6.8, 19.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'morph', 'model']",0.35,0.70,9,134.00,18.98,M,SABc,False,17.23
+NGC 3938,45.63,"(36.51, 58.41)","['T-W', 'T-W', 'potential-density', 'potential-density', 'morph', 'morph', 'offset', 'offset', 'offset']",0.32,1.59,9,161.10,31.14,M,Sc,False,14.92
+NGC 3949,7.80,"(7.8, 7.8)","['potential-density', 'potential-density']",0.00,0.43,2,86.50,inf,F,Sbc,False,14.92
+NGC 3994,9.17,"(5.94, 12.41)",['T-W'],0.21,0.40,1,31.40,Nan,Nan,Sc,False,46.95
+NGC 4027,24.00,"(24.0, 24.0)","['potential-density', 'potential-density']",0.00,0.56,2,94.85,inf,F,SBd,True,23.58
+NGC 4030,10.40,"(10.4, 10.4)","['potential-density', 'potential-density', 'potential-density', 'potential-density']",0.00,0.73,4,125.05,inf,M,Sbc,False,21.85
+NGC 4045,7.60,"(5.7, 9.5)","['F-B', 'F-B', 'F-B']",0.14,0.51,3,80.75,11.82,M,Sa,True,29.39
+NGC 4051,3.30,"(3.3, 3.3)","['potential-density', 'potential-density', 'model', 'morph']",0.27,0.71,4,157.45,8.06,M,SABb,False,13.77
+NGC 4062,43.90,"(42.8, 45.0)","['F-B', 'F-B', 'F-B']",0.08,0.71,3,122.20,18.25,M,SABc,False,13.77
+NGC 4113,24.10,"(22.0, 26.2)",['gaps'],0.15,0.91,1,28.89,Nan,Nan,SBa,True,118.41
+NGC 4123,18.00,"(18.0, 18.0)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'P-D']",0.23,0.83,6,130.95,11.51,M,Sc,True,20.12
+NGC 4136,6.80,"(6.8, 6.8)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph', 'offset', 'offset']",0.39,0.72,7,119.45,9.67,F,Sc,True,11.46
+NGC 4145,18.10,"(16.0, 20.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'morph', 'P-D']",0.21,1.09,9,176.65,64.68,M,Scd,True,17.80
+NGC 4151,5.70,"(5.7, 5.7)","['potential-density', 'potential-density', 'potential-density']",0.00,0.53,3,189.30,inf,Nan,Sab,True,17.80
+NGC 4207,15.04,"(0.0, 30.08)",['T-W'],0.63,0.63,1,47.55,Nan,Nan,Sd,False,10.31
+NGC 4208,35.60,"(35.6, 35.6)",['potential-density'],0.00,0.38,1,94.85,Nan,M,Nan,Nan,Nan
+NGC 4236,609.27,"(609.27, 609.27)",['morph'],0.00,0.93,1,656.35,Nan,Nan,SBd,True,4.41
+NGC 4242,13.80,"(11.1, 16.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density']",0.25,0.89,6,150.35,28.49,Nan,Sd,True,10.89
+NGC 4245,55.69,"(55.69, 55.69)",['T-W'],0.00,0.64,1,86.50,Nan,Nan,S0-a,True,15.50
+NGC 4264,16.92,"(15.89, 17.94)",['T-W'],0.07,0.61,1,29.30,Nan,Nan,S0-a,True,37.55
+NGC 4293,15.00,"(13.5, 16.5)","['potential-density', 'potential-density', 'potential-density', 'T-W']",0.04,0.84,4,168.70,82.58,Nan,S0-a,True,15.50
+NGC 4294,29.00,"(23.0, 33.0)",['T-W'],0.10,0.34,1,97.10,Nan,F,SBc,True,15.52
+NGC 4298,76.12,"(66.91, 85.33)",['T-W'],0.19,0.88,1,97.10,Nan,F,Sc,False,18.38
+NGC 4314,3.30,"(3.3, 3.3)","['potential-density', 'potential-density', 'model', 'offset', 'offset']",0.45,0.73,5,125.05,8.14,G,Sa,True,17.23
+NGC 4394,16.70,"(16.7, 16.7)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph']",0.19,0.82,5,108.90,12.85,Nan,SBb,True,15.50
+NGC 4414,20.70,"(20.7, 20.7)","['potential-density', 'potential-density', 'potential-density']",0.00,0.70,3,108.90,inf,F,Sc,False,13.77
+NGC 4431,17.87,"(13.72, 23.93)",['T-W'],0.20,0.46,1,52.15,Nan,Nan,S0,True,15.50
+NGC 4450,4.50,"(4.5, 4.5)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'model']",0.06,0.99,5,157.45,58.65,G,Sab,False,30.56
+NGC 4457,44.20,"(44.2, 44.2)","['potential-density', 'model', 'T-W', 'T-W', 'P-D']",0.42,0.55,5,80.75,7.24,Nan,S0-a,True,14.34
+NGC 4487,20.50,"(19.9, 21.1)","['potential-density', 'potential-density', 'morph']",0.04,0.37,3,125.05,19.56,F,Sc,True,15.50
+NGC 4496,9.10,"(9.1, 9.1)","['potential-density', 'potential-density', 'potential-density']",0.00,0.98,3,105.00,inf,Nan,,False,Nan
+NGC 4496A,25.26,"(0.0, 50.53)",['T-W'],0.42,0.42,1,119.45,Nan,F,Scd,True,26.49
+NGC 4504,10.30,"(9.1, 11.5)","['potential-density', 'potential-density', 'morph']",0.03,0.41,3,130.95,35.28,M,SABc,False,14.92
+NGC 4519,68.00,"(68.0, 168.0)",['T-W'],1.05,1.77,1,94.85,Nan,F,Scd,True,19.53
+NGC 4527,65.20,"(65.2, 65.2)",['potential-density'],0.00,0.35,1,185.00,Nan,G,SABb,False,26.49
+NGC 4535,79.80,"(72.0, 87.6)","['morph', 'T-W', 'T-W', 'T-W']",0.37,0.52,4,212.40,0.25,M,Sc,True,29.98
+NGC 4536,113.65,"(86.17, 141.13)",['T-W'],0.24,0.62,1,227.55,Nan,M,SABb,False,27.06
+NGC 4540,19.64,"(0.0, 39.29)",['T-W'],0.67,0.67,1,58.50,Nan,F,SABc,False,20.69
+NGC 4559,15.80,"(14.8, 16.8)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph']",0.08,0.30,6,321.45,25.55,M,Sc,True,14.91
+NGC 4571,5.30,"(5.3, 5.3)","['potential-density', 'potential-density', 'T-W']",0.21,0.65,3,108.90,6.77,F,Sc,False,19.34
+NGC 4580,15.40,"(15.4, 15.4)","['potential-density', 'potential-density']",0.03,0.63,2,62.70,29.13,M,SABa,False,16.65
+NGC 4593,12.30,"(12.3, 12.3)","['potential-density', 'potential-density', 'potential-density', 'morph', 'offset', 'offset', 'offset', 'offset', 'offset']",0.97,1.43,9,116.70,6.08,G,Sb,True,36.39
+NGC 4596,61.81,"(49.16, 77.99)",['T-W'],0.24,0.65,1,119.45,Nan,Nan,S0-a,True,28.81
+NGC 4605,4.70,"(3.7, 5.7)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.09,0.37,5,172.65,26.40,Nan,SBc,True,5.54
+NGC 4608,36.80,"(35.4, 38.2)",['gaps'],0.03,0.39,1,97.10,Nan,Nan,S0,True,28.24
+NGC 4618,41.70,"(40.6, 42.8)","['F-B', 'F-B', 'F-B', 'potential-density', 'P-D', 'P-D', 'P-D']",0.11,0.72,7,125.05,49.03,F,SBm,True,11.46
+NGC 4625,15.20,"(13.7, 16.7)","['F-B', 'F-B', 'F-B']",0.17,0.59,3,65.65,8.26,F,SABm,False,12.61
+NGC 4631,342.21,"(342.21, 342.21)",['morph'],0.00,0.74,1,464.65,Nan,Nan,SBcd,True,12.04
+NGC 4635,19.60,"(18.1, 21.1)","['F-B', 'F-B', 'F-B']",0.18,0.75,3,61.25,9.38,F,SABc,False,16.07
+NGC 4643,6.20,"(6.2, 6.2)","['potential-density', 'potential-density', 'model', 'P-D']",0.15,0.80,4,92.70,18.75,Nan,S0-a,True,20.69
+NGC 4647,6.10,"(6.1, 6.1)","['potential-density', 'potential-density', 'potential-density']",0.00,0.58,3,86.50,inf,F,SABc,False,22.43
+NGC 4651,15.60,"(14.0, 17.2)","['F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph']",0.27,0.77,9,119.45,32.39,M,Sc,False,13.77
+NGC 4654,4.30,"(4.0, 4.6)","['potential-density', 'potential-density', 'potential-density', 'T-W', 'P-D', 'P-D', 'P-D']",0.26,0.64,7,146.95,12.60,M,Sc,True,17.23
+NGC 4665,16.80,"(16.8, 16.8)","['potential-density', 'potential-density', 'model', 'P-D']",0.25,0.59,4,114.05,5.66,Nan,S0-a,True,14.34
+NGC 4689,34.10,"(33.3, 34.9)","['potential-density', 'potential-density', 'potential-density', 'T-W']",0.15,0.81,4,127.95,13.42,M,Sc,False,25.33
+NGC 4691,34.10,"(34.1, 34.1)",['potential-density'],0.00,0.40,1,84.55,Nan,Nan,S0-a,True,17.23
+NGC 4699,2.50,"(2.5, 2.5)","['potential-density', 'potential-density']",0.00,0.13,2,114.05,inf,Nan,SABb,False,20.69
+NGC 4713,12.60,"(10.3, 14.9)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.53,1.00,5,80.75,9.64,F,Scd,True,10.89
+NGC 4772,52.50,"(52.5, 52.5)",['potential-density'],0.00,0.52,1,101.65,Nan,Nan,SABa,False,16.65
+NGC 4775,38.00,"(38.0, 38.0)","['potential-density', 'morph']",0.07,0.59,2,64.15,7.10,F,Scd,False,23.58
+NGC 4781,2.40,"(2.4, 2.4)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'T-W']",0.25,0.80,5,104.00,9.92,F,Scd,True,18.96
+NGC 4900,9.20,"(9.2, 9.2)","['potential-density', 'potential-density', 'P-D', 'P-D', 'P-D']",0.03,0.52,5,67.15,51.31,F,Sc,True,15.50
+NGC 4902,9.00,"(9.0, 9.0)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'model']",0.10,0.96,5,90.60,28.95,M,Sb,True,38.14
+NGC 4930,4.50,"(4.5, 4.5)","['potential-density', 'potential-density', 'potential-density', 'model']",0.17,0.78,4,134.00,15.80,Nan,Sbc,True,35.81
+NGC 4932,5.14,"(4.85, 5.43)",['P-D'],0.01,0.12,1,45.40,Nan,Nan,Sc,True,106.81
+NGC 4935,17.00,"(16.1, 17.9)",['gaps'],0.05,0.50,1,36.05,Nan,Nan,Sb,True,95.28
+NGC 4939,17.30,"(17.3, 17.3)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph', 'offset']",0.21,0.76,6,164.85,14.48,Nan,Sbc,False,45.75
+NGC 4941,57.10,"(57.1, 57.1)","['potential-density', 'T-W']",0.06,0.52,2,108.90,2.00,Nan,SABa,False,17.23
+NGC 4951,1.72,"(0.0, 3.44)","['T-W', 'T-W']",0.09,0.27,2,99.35,7.21,M,SABc,False,17.80
+NGC 4995,21.60,"(20.8, 22.4)","['potential-density', 'potential-density', 'potential-density', 'model']",0.19,0.95,4,73.65,13.01,M,SABb,False,25.91
+NGC 5005,114.59,"(114.59, 114.59)","['morph', 'potential-density', 'potential-density']",0.01,0.66,3,172.65,180.42,M,SABb,False,17.23
+NGC 5020,48.00,"(48.0, 48.0)",['P-D'],0.00,0.51,1,94.85,Nan,Nan,Nan,Nan,Nan
+NGC 5033,130.80,"(126.6, 135.0)","['morph', 'offset', 'offset']",0.07,0.51,3,321.45,4.62,M,Sc,False,16.07
+NGC 5042,51.16,"(40.11, 62.21)",['T-W'],0.18,0.50,1,125.05,Nan,F,SABc,False,20.11
+NGC 5054,74.00,"(74.0, 74.0)","['potential-density', 'morph']",0.05,0.62,2,153.85,4.33,M,Sbc,False,25.33
+NGC 5068,7.00,"(0.0, 13.99)","['T-W', 'T-W', 'T-W', 'T-W', 'T-W', 'T-W']",0.40,0.40,6,217.35,2.66,F,Sc,True,9.74
+NGC 5085,7.50,"(7.5, 7.5)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph']",0.01,0.96,5,101.65,511.47,M,Sc,False,28.24
+NGC 5101,10.30,"(7.3, 13.3)","['potential-density', 'potential-density', 'potential-density']",0.04,0.58,3,161.10,33.99,Nan,S0-a,True,26.49
+NGC 5112,30.80,"(28.8, 32.8)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.31,0.92,6,119.45,19.10,M,SBc,True,17.80
+NGC 5121,37.10,"(37.1, 37.1)",['potential-density'],0.00,0.63,1,58.50,Nan,Nan,Sa,False,20.11
+NGC 5132,42.00,"(39.7, 44.3)",['gaps'],0.11,1.10,1,40.45,Nan,Nan,S0-a,True,107.40
+NGC 5134,3.62,"(0.0, 7.25)","['T-W', 'T-W']",0.55,0.61,2,82.65,1.42,Nan,SABb,False,25.33
+NGC 5204,9.40,"(6.9, 11.9)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.18,0.47,5,150.35,17.17,F,Sm,False,4.58
+NGC 5205,11.85,"(9.21, 14.97)",['T-W'],0.06,0.16,1,94.85,Nan,G,SBbc,True,29.98
+NGC 5211,34.90,"(33.1, 36.7)",['gaps'],0.06,0.59,1,62.70,Nan,Nan,Sab,True,55.18
+NGC 5247,14.00,"(13.0, 15.0)","['potential-density', 'potential-density', 'morph']",0.11,0.76,3,168.70,15.79,G,SABb,False,20.11
+NGC 5248,12.50,"(12.5, 12.5)","['potential-density', 'potential-density', 'morph', 'morph', 'T-W']",0.38,0.59,5,185.00,5.12,G,SABb,False,18.96
+NGC 5297,17.20,"(15.3, 19.1)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.13,0.58,5,168.70,24.95,M,Sc,True,38.73
+NGC 5305,10.72,"(9.4, 12.04)",['P-D'],0.06,0.26,1,46.45,Nan,Nan,Sb,True,85.62
+NGC 5334,6.00,"(6.0, 6.0)","['potential-density', 'potential-density', 'potential-density', 'morph']",0.01,0.65,4,125.05,180.94,F,Sc,True,21.85
+NGC 5335,17.10,"(16.1, 18.1)",['gaps'],0.03,0.28,1,64.15,Nan,Nan,Sb,True,68.83
+NGC 5364,113.40,"(109.8, 117.0)",['morph'],0.04,0.58,1,202.80,Nan,M,Sbc,False,20.11
+NGC 5370,31.90,"(30.3, 33.5)",['gaps'],0.09,0.97,1,34.45,Nan,Nan,S0,True,48.11
+NGC 5371,93.00,"(77.0, 93.0)","['T-W', 'morph', 'offset', 'offset', 'widths']",0.47,0.78,5,130.95,5.49,G,Sbc,True,41.08
+NGC 5376,10.00,"(6.9, 13.1)","['F-B', 'F-B', 'F-B']",0.18,0.54,3,62.70,8.00,M,SABa,False,34.64
+NGC 5378,19.65,"(11.68, 32.73)",['T-W'],0.27,0.42,1,77.10,Nan,Nan,Sa,True,46.95
+NGC 5383,60.30,"(52.2, 68.4)","['morph', 'offset', 'offset']",0.28,0.72,3,94.85,5.57,F,Sb,True,35.81
+NGC 5406,11.24,"(8.18, 16.14)",['T-W'],0.14,0.28,1,58.50,Nan,Nan,Sbc,True,82.00
+NGC 5427,15.70,"(13.4, 18.0)","['F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density']",0.15,0.77,7,84.55,43.84,G,SABc,False,40.48
+NGC 5430,15.20,"(12.2, 18.2)","['F-B', 'F-B', 'F-B', 'F-B']",0.33,0.76,4,65.65,8.75,M,SBb,True,47.53
+NGC 5483,2.60,"(2.6, 2.6)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph']",0.05,0.65,5,111.45,45.46,Nan,Sc,True,24.17
+NGC 5530,1.75,"(0.0, 3.5)","['T-W', 'T-W']",0.15,0.59,2,125.05,8.03,Nan,SABb,False,16.07
+NGC 5585,19.50,"(18.1, 20.9)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.14,0.85,6,172.65,47.62,F,SABc,False,9.16
+NGC 5622,11.60,"(9.5, 13.7)","['F-B', 'F-B', 'F-B', 'F-B']",0.34,0.63,4,52.15,6.26,Nan,Sb,False,60.51
+NGC 5643,23.60,"(23.6, 23.6)","['potential-density', 'potential-density', 'potential-density', 'T-W', 'T-W']",0.48,0.76,5,137.15,5.71,Nan,Sc,True,16.07
+NGC 5660,24.60,"(24.0, 25.2)",['morph'],0.01,0.30,1,82.65,Nan,M,SABc,False,38.14
+NGC 5668,36.70,"(35.5, 37.9)","['F-B', 'F-B', 'F-B']",0.12,0.66,3,99.35,7.82,F,Scd,False,25.33
+NGC 5676,18.40,"(16.5, 20.3)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density', 'potential-density', 'model']",0.49,0.68,12,119.45,18.39,M,Sc,False,34.64
+NGC 5678,14.70,"(12.8, 16.6)","['F-B', 'F-B', 'F-B']",0.15,0.43,3,99.35,7.00,F,SABb,False,32.30
+NGC 5686,4.70,"(4.6, 4.8)",['gaps'],0.01,0.22,1,21.57,Nan,Nan,SBa,True,64.09
+NGC 5701,15.40,"(15.4, 15.4)","['potential-density', 'potential-density', 'potential-density', 'model', 'gaps', 'P-D', 'offset', 'offset']",0.35,0.75,8,127.95,13.81,Nan,S0-a,True,24.17
+NGC 5713,5.00,"(5.0, 5.0)","['potential-density', 'potential-density', 'potential-density']",0.00,0.86,3,82.65,inf,F,SABb,False,29.98
+NGC 5727,21.50,"(19.5, 23.5)","['F-B', 'F-B', 'F-B']",0.15,0.73,3,67.15,11.45,Nan,SABd,False,25.91
+NGC 5768,15.65,"(15.65, 15.65)","['bar-torque', 'bar-torque']",0.00,0.41,2,55.85,inf,M,SABc,False,29.98
+NGC 5850,29.90,"(29.9, 29.9)","['potential-density', 'potential-density', 'model', 'P-D', 'offset', 'offset']",0.36,0.91,6,127.95,12.00,G,Sb,True,39.32
+NGC 5874,27.50,"(24.7, 30.3)","['F-B', 'F-B', 'widths', 'widths']",0.26,0.86,4,68.75,6.97,Nan,SABc,False,49.89
+NGC 5879,12.20,"(8.4, 16.0)","['F-B', 'F-B']",0.09,0.26,2,125.05,4.33,M,Sbc,True,16.07
+NGC 5905,94.20,"(85.8, 102.6)",['morph'],0.14,0.86,1,119.45,Nan,Nan,Sb,True,53.43
+NGC 5921,65.00,"(57.0, 69.0)","['T-W', 'potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'P-D', 'P-D']",0.19,0.94,8,146.95,28.67,M,Sbc,True,23.58
+NGC 5947,5.91,"(3.57, 8.35)",['T-W'],0.14,0.24,1,35.25,Nan,Nan,SBbc,True,90.45
+NGC 5949,31.20,"(26.3, 36.1)",['F-B'],0.15,0.54,1,67.15,Nan,F,Sbc,False,10.89
+NGC 5962,27.30,"(27.3, 27.3)",['potential-density'],0.00,0.31,1,88.55,Nan,F,Sc,False,31.72
+NGC 5964,55.00,"(42.0, 93.0)",['T-W'],0.41,0.74,1,125.05,Nan,M,SBcd,True,23.58
+NGC 5970,19.10,"(16.3, 21.9)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.29,0.83,5,86.50,15.25,M,SBc,True,31.15
+NGC 5971,17.88,"(9.27, 26.5)",['T-W'],0.36,0.56,1,47.55,Nan,Nan,Sa,False,53.41
+NGC 5985,27.70,"(24.9, 30.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph']",0.33,0.67,7,164.85,14.78,M,Sb,True,41.08
+NGC 6015,9.70,"(8.2, 11.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph']",0.16,0.80,6,161.10,35.14,F,Sc,False,16.65
+NGC 6140,16.60,"(15.2, 18.0)","['F-B', 'F-B', 'F-B']",0.08,0.32,3,189.30,11.46,F,Sc,True,17.80
+NGC 6207,12.60,"(11.2, 14.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.25,0.76,6,88.55,21.56,F,Sc,False,16.65
+NGC 6215,27.30,"(23.0, 31.6)","['potential-density', 'potential-density', 'potential-density']",0.13,1.13,3,64.15,13.08,Nan,Sc,False,20.69
+NGC 6217,11.30,"(9.9, 12.7)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph']",0.26,0.74,6,90.60,18.64,M,Sbc,True,24.75
+NGC 6221,14.50,"(14.5, 14.5)","['potential-density', 'potential-density', 'potential-density']",0.00,0.87,3,106.45,inf,Nan,Sc,True,19.53
+NGC 6236,28.10,"(26.6, 29.6)","['F-B', 'F-B', 'F-B', 'F-B']",0.18,0.66,4,86.50,9.75,F,SABc,False,23.58
+NGC 6248,8.80,"(7.4, 10.2)","['F-B', 'F-B', 'F-B']",0.12,0.88,3,94.85,26.77,Nan,SBc,True,21.27
+NGC 6278,16.34,"(10.66, 22.02)",['T-W'],0.19,0.36,1,61.25,Nan,Nan,S0,True,44.59
+NGC 6283,12.40,"(11.0, 13.8)","['F-B', 'F-B']",0.19,0.81,2,30.00,5.30,Nan,Sc,False,20.69
+NGC 6300,9.40,"(9.4, 9.4)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'T-W']",0.35,0.79,5,134.00,7.07,Nan,SBb,True,13.77
+NGC 6384,20.40,"(20.4, 20.4)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'widths', 'widths']",0.34,0.71,7,185.00,10.34,Nan,Sbc,True,27.06
+NGC 6412,7.50,"(5.6, 9.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.28,0.59,5,75.35,12.95,M,SABc,False,23.59
+NGC 6427,23.33,"(7.34, 39.33)",['T-W'],0.67,0.83,1,47.55,Nan,Nan,E-S0,False,50.47
+NGC 6497,11.30,"(8.01, 15.59)",['T-W'],0.17,0.36,1,43.35,Nan,Nan,Sb,True,94.06
+NGC 6503,21.80,"(20.0, 23.6)","['F-B', 'F-B', 'F-B', 'F-B']",0.06,0.43,4,212.40,33.15,Nan,Sc,False,6.27
+NGC 6643,9.80,"(8.1, 11.5)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph', 'model']",0.46,0.69,8,114.05,12.27,Nan,Sc,False,26.49
+NGC 6744,134.61,"(124.84, 144.39)",['T-W'],0.03,0.24,1,598.60,Nan,Nan,Sbc,True,10.31
+NGC 6753,10.90,"(10.9, 10.9)","['potential-density', 'potential-density', 'potential-density', 'potential-density', 'morph']",0.05,0.84,5,73.65,55.54,Nan,Sb,False,43.99
+NGC 6764,3.30,"(1.6, 5.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'offset', 'offset']",0.28,0.98,7,68.75,31.76,Nan,SBbc,True,39.32
+NGC 6782,12.20,"(12.2, 12.2)","['potential-density', 'potential-density', 'model', 'gaps']",0.16,0.72,4,65.65,12.88,Nan,Sa,True,54.60
+NGC 6814,23.40,"(18.6, 28.2)","['morph', 'offset']",0.11,0.50,2,90.60,4.50,Nan,SABb,False,24.17
+NGC 6902,22.00,"(22.0, 22.0)","['potential-density', 'potential-density']",0.02,0.55,2,168.70,46.73,M,SBab,True,39.32
+NGC 6907,5.70,"(5.6, 5.8)","['potential-density', 'potential-density', 'morph']",0.12,0.57,3,99.35,13.77,Nan,Sbc,True,45.77
+NGC 6912,36.97,"(36.97, 36.97)",['morph'],0.00,0.89,1,41.40,Nan,Nan,SBc,True,102.57
+NGC 6941,10.37,"(6.78, 17.54)",['T-W'],0.18,0.29,1,59.85,Nan,Nan,Sb,True,91.62
+NGC 6945,11.89,"(9.62, 14.53)",['T-W'],0.10,0.30,1,48.65,Nan,Nan,E-S0,True,56.36
+NGC 6946,176.46,"(126.12, 226.8)","['offset', 'morph', 'T-W', 'morph', 'morph', 'offset', 'offset', 'metallicity', 'T-W', 'offset']",0.40,0.74,10,344.45,7.92,Nan,SABc,False,6.72
+NGC 6951,108.56,"(108.56, 108.56)","['offset', 'morph', 'offset', 'P-D', 'offset']",0.25,0.93,5,116.70,9.79,Nan,SABb,False,25.33
+NGC 7079,28.39,"(27.16, 29.68)",['T-W'],0.04,0.46,1,64.15,Nan,Nan,S0,True,36.39
+NGC 7083,3.70,"(3.7, 3.7)","['potential-density', 'potential-density', 'potential-density']",0.00,0.43,3,116.70,inf,Nan,SBbc,True,42.25
+NGC 7098,86.80,"(83.6, 90.0)",['gaps'],0.05,0.74,1,122.20,Nan,Nan,Sa,True,31.13
+NGC 7125,69.40,"(47.3, 91.5)","['offset', 'offset', 'offset']",0.48,0.99,3,92.70,0.40,Nan,Nan,Nan,Nan
+NGC 7126,40.20,"(36.1, 44.3)",['offset'],0.10,0.52,1,84.55,Nan,Nan,Nan,Nan,Nan
+NGC 7177,5.80,"(3.7, 7.9)","['F-B', 'F-B', 'F-B', 'F-B']",0.20,0.65,4,92.70,16.13,Nan,SABb,False,18.96
+NGC 7205,74.10,"(74.1, 74.1)",['potential-density'],0.00,0.61,1,122.20,Nan,M,Sbc,False,21.85
+NGC 7213,22.00,"(22.0, 22.0)","['potential-density', 'potential-density']",0.06,0.73,2,92.70,14.30,Nan,Sa,False,23.58
+NGC 7217,17.00,"(11.2, 22.8)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'potential-density', 'potential-density']",0.31,0.71,7,116.70,17.63,Nan,Sab,False,16.65
+NGC 7321,11.48,"(7.59, 16.73)",['T-W'],0.19,0.34,1,48.65,Nan,Nan,SBb,True,106.22
+NGC 7331,148.97,"(148.97, 148.97)",['morph'],0.00,0.47,1,314.15,Nan,Nan,Sbc,False,14.91
+NGC 7412,13.90,"(13.9, 13.9)","['potential-density', 'potential-density', 'potential-density', 'morph']",0.09,0.61,4,116.70,16.68,M,SBb,True,22.43
+NGC 7418,4.00,"(4.0, 4.0)","['potential-density', 'potential-density', 'potential-density', 'morph']",0.24,0.78,4,106.45,9.85,M,Sc,True,18.96
+NGC 7440,13.80,"(12.5, 15.1)","['F-B', 'F-B', 'F-B']",0.18,0.68,3,42.40,7.44,Nan,Sa,True,85.00
+NGC 7456,51.96,"(40.27, 63.65)",['T-W'],0.14,0.39,1,164.85,Nan,F,Sc,False,15.50
+NGC 7479,13.20,"(10.4, 16.0)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'morph', 'T-W', 'potential-density', 'potential-density', 'bar-torque', 'bar-torque', 'morph', 'offset', 'metallicity', 'offset', 'offset', 'offset', 'offset', 'offset', 'offset', 'offset', 'offset', 'offset', 'P-D', 'P-D', 'P-D', 'P-D']",0.83,1.03,33,122.20,24.62,G,SBbc,True,35.81
+NGC 7496,46.88,"(25.37, 68.39)","['T-W', 'T-W', 'T-W', 'offset', 'offset', 'offset', 'offset', 'offset']",0.48,0.69,8,99.35,1.12,G,Sb,True,21.85
+NGC 7552,4.70,"(4.7, 4.7)","['potential-density', 'potential-density', 'potential-density', 'model', 'morph', 'offset', 'offset']",0.58,1.15,7,101.65,5.52,G,Sab,True,21.27
+NGC 7563,41.89,"(27.3, 59.98)",['T-W'],0.56,1.03,1,58.50,Nan,Nan,Sa,True,63.47
+NGC 7582,43.60,"(43.6, 43.6)","['potential-density', 'potential-density']",0.00,0.49,2,150.35,inf,G,SBab,True,20.69
+NGC 7591,12.86,"(8.66, 19.3)",['T-W'],0.18,0.33,1,58.50,Nan,Nan,SBbc,True,72.41
+NGC 7713,55.70,"(55.7, 55.7)","['potential-density', 'potential-density']",0.00,0.51,2,134.00,inf,F,Scd,True,8.02
+NGC 7723,9.30,"(9.3, 9.3)","['potential-density', 'potential-density', 'potential-density', 'model', 'offset', 'offset', 'offset']",0.08,0.39,7,104.00,nan,M,SBb,True,26.49
+NGC 7727,29.10,"(29.1, 29.1)","['potential-density', 'potential-density']",0.00,0.82,2,140.30,inf,G,SABa,False,25.91
+NGC 7741,36.80,"(33.2, 40.4)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'F-B', 'T-W', 'potential-density', 'morph']",0.48,0.83,13,130.95,20.87,F,SBc,True,12.61
+NGC 7743,38.00,"(38.0, 38.0)","['P-D', 'widths', 'widths']",0.24,0.66,3,90.60,1.05,G,S0-a,True,25.33
+NGC 7753,51.70,"(42.7, 60.7)",['offset'],0.18,0.61,1,99.35,Nan,Nan,SABb,False,76.59
+NGC 7793,174.00,"(101.16, 246.84)","['offset', 'morph']",0.52,0.88,2,280.00,0.81,F,Scd,False,3.73
+SBS 0927+493,5.61,"(4.87, 6.24)",['T-W'],0.06,0.28,1,21.97,Nan,Nan,SBab,True,151.29
+UGC 01014,18.05,"(18.05, 18.05)","['bar-torque', 'bar-torque']",0.00,0.51,2,35.25,inf,F,SABm,False,30.56
+UGC 01285,19.82,"(19.82, 19.82)",['bar-torque'],0.00,0.53,1,37.75,Nan,Nan,Sbc,False,71.81
+UGC 02705,3.73,"(3.33, 4.13)","['P-D', 'P-D', 'P-D']",0.05,0.21,3,29.30,4.53,Nan,Sc,True,97.68
+UGC 02855,11.50,"(9.8, 13.2)","['F-B', 'F-B', 'F-B', 'F-B']",0.31,0.77,4,130.95,11.57,Nan,SABc,False,20.69
+UGC 03253,11.78,"(9.11, 14.93)",['T-W'],0.12,0.30,1,49.80,Nan,Nan,Sb,True,63.47
+UGC 03273,7.40,"(4.2, 10.6)","['F-B', 'F-B', 'F-B', 'F-B']",0.60,1.81,4,58.50,15.70,Nan,SABm,False,11.46
+UGC 03574,5.40,"(3.5, 7.3)","['F-B', 'F-B', 'F-B']",0.20,0.40,3,125.05,5.69,Nan,Sc,False,23.58
+UGC 03685,16.80,"(15.5, 18.1)","['F-B', 'F-B', 'F-B', 'F-B']",0.13,0.58,4,99.35,19.85,Nan,Sb,True,28.81
+UGC 03691,10.30,"(8.0, 12.6)","['F-B', 'F-B', 'F-B', 'F-B']",0.27,0.86,4,65.65,14.85,Nan,Sc,False,31.15
+UGC 03826,13.90,"(12.1, 15.7)","['F-B', 'F-B']",0.06,0.39,2,104.00,11.09,Nan,SABc,False,28.24
+UGC 03871,5.32,"(4.79, 5.85)","['P-D', 'P-D', 'P-D']",0.05,0.32,3,31.40,8.04,Nan,Sc,True,101.95
+UGC 03876,33.90,"(31.7, 36.1)","['F-B', 'F-B']",0.15,0.92,2,67.15,6.77,Nan,SABc,False,13.19
+UGC 03907,6.46,"(6.17, 6.75)","['P-D', 'P-D', 'P-D']",0.04,0.26,3,38.65,7.26,Nan,SBc,True,275.68
+UGC 03944,8.91,"(-34.4, 52.21)",['T-W'],1.62,0.98,1,53.35,Nan,Nan,Sc,False,57.54
+UGC 03949,7.63,"(7.44, 7.82)",['P-D'],0.01,0.24,1,32.90,Nan,Nan,Sc,True,94.67
+UGC 04058,4.00,"(3.86, 4.14)","['P-D', 'P-D', 'P-D']",0.02,0.31,3,30.00,26.28,Nan,SABd,False,123.37
+UGC 04099,12.36,"(11.76, 12.96)",['P-D'],0.02,0.27,1,48.65,Nan,Nan,Sb,True,68.23
+UGC 04270,8.01,"(7.84, 8.18)","['P-D', 'P-D', 'P-D']",0.02,0.24,3,48.65,10.70,Nan,Sbc,True,119.07
+UGC 04300,6.83,"(6.51, 7.15)",['P-D'],0.02,0.18,1,40.45,Nan,Nan,Sc,True,111.69
+UGC 04374,3.58,"(3.2, 3.96)",['P-D'],0.02,0.09,1,46.45,Nan,Nan,Sc,True,56.36
+UGC 04500,21.71,"(21.71, 21.71)",['bar-torque'],0.00,0.49,1,44.35,Nan,Nan,SABc,False,64.68
+UGC 04578,4.88,"(4.68, 5.08)","['P-D', 'P-D', 'P-D']",0.02,0.24,3,34.45,14.47,Nan,SABb,False,134.46
+UGC 04596,17.40,"(16.8, 18.0)",['gaps'],0.03,0.47,1,38.65,Nan,Nan,S0-a,False,136.96
+UGC 04771,18.20,"(17.2, 19.2)",['gaps'],0.05,0.51,1,37.75,Nan,Nan,Sb,True,161.96
+UGC 05016,14.11,"(11.79, 17.37)",['T-W'],0.18,0.55,1,31.40,Nan,Nan,SBa,True,120.28
+UGC 05228,16.60,"(15.3, 17.9)","['F-B', 'F-B', 'F-B', 'F-B']",0.15,0.83,4,73.65,24.31,M,SBc,True,25.33
+UGC 05380,8.50,"(8.2, 8.8)",['gaps'],0.02,0.30,1,29.30,Nan,Nan,Sab,True,89.83
+UGC 05476,6.81,"(5.46, 8.16)",['P-D'],0.07,0.20,1,40.45,Nan,Nan,Sb,True,104.38
+UGC 05493,4.05,"(3.78, 4.32)",['P-D'],0.01,0.09,1,47.55,Nan,Nan,Sc,True,52.24
+UGC 05736,4.92,"(4.8, 5.04)",['P-D'],0.01,0.15,1,32.90,Nan,Nan,Sbc,True,136.96
+UGC 05859,12.60,"(8.08, 37.71)",['T-W'],0.73,0.93,1,40.45,Nan,Nan,SBa,True,113.50
+UGC 05885,25.70,"(23.7, 27.7)",['gaps'],0.09,0.64,1,43.35,Nan,Nan,SABb,False,142.56
+UGC 06002,7.86,"(7.0, 8.72)",['P-D'],0.05,0.25,1,34.45,Nan,Nan,Sb,True,114.13
+UGC 06015,9.05,"(8.77, 9.33)",['P-D'],0.02,0.35,1,26.75,Nan,Nan,SABc,False,185.35
+UGC 06109,6.32,"(5.87, 6.77)",['P-D'],0.02,0.19,1,36.05,Nan,Nan,SABc,False,100.14
+UGC 06223,6.85,"(6.67, 7.03)",['P-D'],0.01,0.24,1,29.30,Nan,Nan,SBc,True,73.62
+UGC 06771,9.72,"(7.5, 11.94)",['P-D'],0.09,0.23,1,50.95,Nan,Nan,Sab,True,87.42
+UGC 06828,4.75,"(4.64, 4.86)","['P-D', 'P-D', 'P-D']",0.03,0.16,3,40.45,3.48,Nan,SBbc,True,233.24
+UGC 06903,17.19,"(17.19, 17.19)","['bar-torque', 'bar-torque']",0.00,0.65,2,78.90,inf,G,Sc,True,28.24
+UGC 08039,26.08,"(20.43, 34.45)",['T-W'],0.36,0.88,1,38.99,Nan,Nan,Sb,True,244.46
+UGC 08050,9.49,"(9.41, 9.57)",['P-D'],0.00,0.25,1,37.75,Nan,Nan,Sbc,True,155.02
+UGC 08231,14.03,"(-17.82, 45.87)",['T-W'],1.34,0.96,1,47.55,Nan,Nan,Sc,True,39.90
+UGC 08272,8.51,"(7.51, 9.51)",['P-D'],0.05,0.24,1,39.55,Nan,Nan,Sc,True,130.74
+UGC 09418,14.70,"(13.8, 15.6)",['gaps'],0.06,0.52,1,30.00,Nan,Nan,SBa,True,147.50
+UGC 09734,27.50,"(27.5, 27.5)",['bar-torque'],0.00,0.70,1,39.55,Nan,Nan,Sbc,False,52.82
+UGC 10005,14.79,"(14.79, 14.79)","['bar-torque', 'bar-torque', 'bar-torque']",0.00,0.87,3,38.65,inf,Nan,Scd,False,58.16
+UGC 10168,27.40,"(26.1, 28.7)","['gaps', 'rings']",0.06,0.95,2,43.35,10.68,Nan,S0-a,True,92.26
+UGC 10445,6.00,"(3.8, 8.2)","['F-B', 'F-B', 'F-B']",0.16,0.71,3,82.65,15.07,F,Sc,True,18.38
+UGC 10502,34.10,"(31.0, 37.2)","['F-B', 'F-B', 'F-B']",0.26,1.03,3,70.35,7.47,Nan,Sc,False,67.05
+UGC 10712,11.50,"(10.9, 12.1)",['gaps'],0.04,0.43,1,28.00,Nan,Nan,Sa,True,161.96
+UGC 10842,9.89,"(8.73, 11.15)",['T-W'],0.07,0.32,1,34.45,Nan,Nan,SBb,True,214.98
+UGC 11058,25.28,"(25.28, 25.28)","['bar-torque', 'bar-torque']",0.00,0.57,2,44.35,inf,Nan,Sb,True,73.01
+UGC 11124,11.10,"(8.3, 13.9)","['F-B', 'F-B', 'F-B', 'F-B']",0.22,0.81,4,75.35,17.49,Nan,SBc,True,27.64
+UGC 11466,20.20,"(15.3, 25.1)","['F-B', 'F-B', 'F-B']",0.29,0.89,3,59.85,6.83,Nan,Sbc,False,16.65
+UGC 11557,9.10,"(7.6, 10.6)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.32,0.89,5,65.65,18.11,Nan,SABd,False,24.75
+UGC 11861,7.60,"(4.0, 11.2)","['F-B', 'F-B', 'F-B', 'F-B', 'F-B']",0.32,0.88,5,104.00,19.52,Nan,Sd,True,25.91
+UGC 12185,21.24,"(12.29, 33.33)",['T-W'],0.46,0.73,1,45.40,Nan,Nan,SBab,True,98.90
+UGC 12646,32.20,"(28.3, 36.1)",['gaps'],0.14,0.65,1,55.85,Nan,Nan,Sb,True,119.01
+WISE J162105.01+395502.8,6.30,"(5.25, 7.67)",['T-W'],0.10,0.33,1,23.27,Nan,Nan,Nan,Nan,Nan
+WISE J162907.83+403954.1,9.59,"(6.46, 15.43)",['T-W'],0.37,0.63,1,24.36,Nan,Nan,Nan,Nan,Nan
+WISEA J072819.02+431807.5,3.79,"(3.05, 4.64)",['T-W'],0.17,0.50,1,9.21,Nan,Nan,Nan,Nan,Nan
+WISEA J073941.88+455445.5,19.16,"(15.58, 24.63)",['T-W'],0.33,0.90,1,27.39,Nan,Nan,Nan,Nan,Nan
+WISEA J074743.27+412310.9,7.39,"(5.82, 9.16)",['T-W'],0.16,0.44,1,20.84,Nan,Nan,Nan,Nan,Nan
+WISEA J083630.85+040215.6,21.63,"(21.63, 21.63)",['rings'],0.00,0.74,1,29.14,Nan,Nan,Nan,Nan,Nan
+WISEA J084758.29+513603.8,2.91,"(2.38, 3.67)",['T-W'],0.12,0.33,1,11.21,Nan,Nan,Nan,Nan,Nan
+WISEA J095759.45+022810.5,4.24,"(4.24, 4.24)",['rings'],0.00,0.73,1,5.79,Nan,Nan,Nan,Nan,Nan
+WISEA J095928.33+020109.3,,"(nan, nan)",['rings'],,inf,1,0.00,Nan,Nan,Nan,Nan,Nan
+WISEA J095935.08+020127.2,2.03,"(2.03, 2.03)",['rings'],0.00,0.66,1,3.08,Nan,Nan,Nan,Nan,Nan
+WISEA J095938.81+020658.6,3.01,"(3.01, 3.01)",['rings'],0.00,0.98,1,3.08,Nan,Nan,Nan,Nan,Nan
+WISEA J100204.96+022739.9,1.68,"(1.68, 1.68)",['rings'],0.00,0.58,1,2.89,Nan,Nan,Nan,Nan,Nan
+WISEA J100217.11+023023.5,1.54,"(1.54, 1.54)",['rings'],0.00,0.73,1,2.12,Nan,Nan,Nan,Nan,Nan
+WISEA J100254.91+024646.1,1.42,"(1.42, 1.42)",['rings'],0.00,1.01,1,1.41,Nan,Nan,Nan,Nan,Nan
+WISEA J104924.87-002547.5,16.66,"(16.66, 16.66)",['rings'],0.00,0.59,1,28.15,Nan,Nan,Nan,Nan,Nan
+WISEA J123234.58+492312.2,10.88,"(10.88, 10.88)",['rings'],0.00,0.67,1,16.17,Nan,Nan,Nan,Nan,Nan
+WISEA J130235.73+411924.1,17.44,"(17.44, 17.44)",['rings'],0.00,0.72,1,24.11,Nan,Nan,Nan,Nan,Nan
+WISEA J133259.13+321913.6,12.36,"(12.36, 12.36)",['rings'],0.00,0.59,1,20.88,Nan,Nan,Nan,Nan,Nan
+WISEA J134432.00+401424.2,6.53,"(4.98, 8.52)",['T-W'],0.15,0.36,1,23.96,Nan,Nan,Nan,Nan,Nan
+WISEA J142004.29+470716.7,9.00,"(-2.03, 16.67)",['T-W'],1.29,1.15,1,14.46,Nan,Nan,Nan,Nan,Nan
+WISEA J153619.29+493428.3,12.74,"(12.74, 12.74)",['rings'],0.00,0.57,1,22.53,Nan,Nan,Nan,Nan,Nan
+WISEA J155209.50+461911.4,8.72,"(6.89, 11.72)",['T-W'],0.36,0.88,1,13.36,Nan,Nan,Nan,Nan,Nan
+WISEA J161149.41+491343.3,12.91,"(9.79, 20.55)",['T-W'],0.69,1.31,1,15.66,Nan,Nan,Nan,Nan,Nan
+WISEA J161652.02+501655.8,22.00,"(14.46, 52.47)",['T-W'],1.28,1.76,1,29.77,Nan,Nan,Nan,Nan,Nan
+WISEA J162050.98+574408.7,13.60,"(12.7, 14.5)",['gaps'],0.07,0.59,1,24.59,Nan,Nan,Nan,Nan,Nan
+WISEA J162259.35+464031.2,7.96,"(6.37, 9.98)",['T-W'],0.29,0.81,1,12.25,Nan,Nan,Nan,Nan,Nan
+WISEA J163233.73+390751.8,2.45,"(1.87, 3.5)",['T-W'],0.15,0.32,1,10.98,Nan,Nan,Nan,Nan,Nan
+WISEA J171901.32+571024.6,13.60,"(9.99, 22.25)",['T-W'],0.58,1.05,1,21.29,Nan,Nan,Nan,Nan,Nan
+WISEA J172818.01+564629.6,3.20,"(2.37, 4.75)",['T-W'],0.17,0.33,1,14.24,Nan,Nan,Nan,Nan,Nan
