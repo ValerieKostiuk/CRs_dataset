@@ -1,4 +1,3 @@
-#Table of galaxies for which the corotation radii measurements were found
 ,cr,cr_range,methods,cover_CR,far_cr,cr_number,r_25,consistence,Spiral_type,Hubble_type,Bar,dist_Mpc
 2MASX J14192411+4554021,[12.53],"([4.07], [43.36])",['T-W'],2.16,2.39,1,18.16,Nan,Nan,S0-a,True,119.67
 2MASX J14213483+4021294,[24.05],"([15.52], [37.48])",['T-W'],1.06,1.81,1,20.73,Nan,Nan,S?,False,285.76
