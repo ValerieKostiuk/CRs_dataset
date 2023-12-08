@@ -63,7 +63,7 @@ $^1$ the table consist of the conditional names of the methods, which descriptio
 |Bar $^2$| presence of a bar (from HyperLeda) |
 |dist_Mpc| distance of galaxy (from HyperLeda) (Mpc)|
 
-
+$^2$ if possible, weakly barred galaxies are excluded from the sample of barred ones
 
 
 
