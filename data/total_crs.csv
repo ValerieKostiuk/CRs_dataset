@@ -1666,9 +1666,8 @@
 1664,NGC 4321,model,Nan,,H I,https://ui.adsabs.harvard.edu/abs/1995A%26A...296...45S/abstract,Sempere et al. (95 a),113.45,0.00,0.00,113.45,113.45,0.00,MESSIER 100,182.86,222.40
 1665,NGC 4321,model,False,,CO,https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract,Garcia-Burillo et al. (1998),14.47,0.00,0.00,14.47,14.47,0.00,MESSIER 100,182.86,222.40
 1666,NGC 4321,model,True,,CO,https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract,Garcia-Burillo et al. (1998),102.53,6.00,6.00,96.53,108.53,12.00,MESSIER 100,182.86,222.40
-1667,NGC 4321,T-W,Nan,,H alpha,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract,Hernandez et al. (2005),44.00,0.00,0.00,44.00,44.00,0.00,MESSIER 100,182.86,222.40
-1668,NGC 4321,T-W,True,,H alpha,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract,Hernandez et al. (2005,97.00,0.00,0.00,97.00,97.00,0.00,MESSIER 100,182.86,222.40
-1669,NGC 4321,T-W,False,,H alpha,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract,Hernandez et al. (2005),130.00,0.00,0.00,130.00,130.00,0.00,MESSIER 100,182.86,222.40
+1668,NGC 4321,T-W,True,,H alpha,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract,Hernandez et al. (2005),97.00,17.00,13.00,80.00,110.00,30.00,MESSIER 100,182.86,222.40
+1669,NGC 4321,T-W,False,,H alpha,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract,Hernandez et al. (2005),150.00,20.00,17.00,130.00,167.00,37.00,MESSIER 100,182.86,222.40
 1670,NGC 3031,morph,False,,,https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract,Elmegreen et al. (1989),534.00,0.00,0.00,534.00,534.00,0.00,MESSIER 081,648.82,807.45
 1671,NGC 4321,morph,False,,,https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract,Elmegreen et al. (1989),123.12,0.00,0.00,123.12,123.12,0.00,MESSIER 100,182.86,222.40
 1672,NGC 5194,morph,False,,,https://ui.adsabs.harvard.edu/abs/1989ApJ...343..602E/abstract,Elmegreen et al. (1989),123.92,0.00,0.00,123.92,123.92,0.00,MESSIER 051a,114.11,336.60
