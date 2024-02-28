@@ -235,7 +235,7 @@ MESSIER 100,NGC4321,166.3,"(6.0, 6.0)","(160.3, 172.3)",12.0,F-B,F-B works,222.4
 MESSIER 100,NGC4321,188.2,"(9.5, 9.5)","(178.7, 197.7)",19.0,F-B,F-B works,222.4,False,"Halpha, HI",ISM,
 MESSIER 100,NGC4321,118.33,"(0.0, 0.0)","(118.33, 118.33)",0.0,morph,Elmegreen et al. (1992),222.4,False,B?,stellar,http://articles.adsabs.harvard.edu/pdf/1992ApJS...79...37E
 MESSIER 100,NGC4321,123.5,"(2.1, 2.1)","(121.4, 125.6)",4.2,F-B,F-B works,222.4,False,"Halpha, HI",ISM,
-MESSIER 100,NGC 4321,130.0,"(0.0, 0.0)","(130.0, 130.0)",0.0,T-W,Hernandez et al. (2005),222.4,False,H alpha,,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
+MESSIER 100,NGC 4321,150.0,"(20.0, 17.0)","(130.0, 167.0)",37.0,T-W,Hernandez et al. (2005),222.4,False,H alpha,,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
 MESSIER 100,PGC40153,116.7,"(8.1, 8.1)","(108.6, 124.8)",16.2,morph,Elmegreen & Elmegreen (1995),222.4,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 MESSIER 100,NGC4321,112.63,"(4.07, 4.07)","(108.56, 116.7)",8.14,T-W,Williams et al. (2021),222.4,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 MESSIER 100,NGC4321,68.87,"(35.62, 35.62)","(33.25, 104.49)",71.24,T-W,Williams et al. (2021),222.4,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
@@ -257,8 +257,7 @@ MESSIER 100,NGC 4321,97.98,"(15.5, 15.5)","(82.48, 113.48)",31.0,F-B,Sempere et 
 MESSIER 100,NGC 4321,113.45,"(0.0, 0.0)","(113.45, 113.45)",0.0,model,Sempere et al. (95 a),222.4,Nan,H I,,https://ui.adsabs.harvard.edu/abs/1995A%26A...296...45S/abstract
 MESSIER 100,NGC 4321,14.47,"(0.0, 0.0)","(14.47, 14.47)",0.0,model,Garcia-Burillo et al. (1998),222.4,False,CO,,https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract
 MESSIER 100,NGC 4321,102.53,"(6.0, 6.0)","(96.53, 108.53)",12.0,model,Garcia-Burillo et al. (1998),222.4,True,CO,,https://ui.adsabs.harvard.edu/abs/1998A%26A...333..864G/abstract
-MESSIER 100,NGC 4321,44.0,"(0.0, 0.0)","(44.0, 44.0)",0.0,T-W,Hernandez et al. (2005),222.4,Nan,H alpha,,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
-MESSIER 100,NGC 4321,97.0,"(0.0, 0.0)","(97.0, 97.0)",0.0,T-W,Hernandez et al. (2005,222.4,True,H alpha,,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
+MESSIER 100,NGC 4321,97.0,"(17.0, 13.0)","(80.0, 110.0)",30.0,T-W,Hernandez et al. (2005),222.4,True,H alpha,,https://ui.adsabs.harvard.edu/abs/2005ApJ...632..253H/abstract
 MESSIER 100,NGC4321S,80.0,"(0.0, 0.0)","(80.0, 80.0)",0.0,offset,del Rio & Cepa (1998),,False,"B,I",stellar,http://articles.adsabs.harvard.edu/pdf/1998A%26A...340....1D
 MESSIER 101,NGC5457,308.28,"(52.96, 52.96)","(255.32, 361.24)",105.92,offset,Abdeen et al. (2020),865.2,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
 MESSIER 101,NGC5457,360.68,"(70.52, 70.52)","(290.16, 431.2)",141.04,offset,Abdeen et al. (2020),865.2,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
