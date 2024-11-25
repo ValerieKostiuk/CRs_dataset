@@ -1,0 +1,53 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(130.91542,144.06762) # point=x
+point(124.03812,158.1203) # point=x
+point(122.70522,168.62345) # point=x
+point(128.17336,181.06045) # point=cross
+point(137.49691,188.29424) # point=cross
+point(150.5423,188.196) # point=cross
+point(165.18944,181.8562) # point=cross
+point(178.72955,171.89763) # point=cross
+point(194.0009,159.84131) # point=cross
+point(200.83282,148.18686) # point=cross
+point(203.21193,134.15597) # point=diamond
+point(200.53275,120.76005) # point=diamond
+point(194.16969,107.69903) # point=diamond
+point(184.70949,93.842721) # point=diamond
+point(178.9037,81.31443) # point=diamond
+point(171.92443,69.633188) # point=diamond
+point(164.20838,59.505873) # point=diamond
+point(170.58595,150.82883) # point=x color=red
+point(170.92457,136.27751) # point=x color=red
+point(168.68261,122.06481) # point=x color=red
+point(160.24318,107.19534) # point=x color=red
+point(146.98122,101.56906) # point=x color=red
+point(129.29861,104.3822) # point=x color=red
+point(116.84041,115.63477) # point=x color=red
+point(103.57845,128.09298) # point=x color=red
+point(91.120242,139.74743) # point=x color=red
+point(81.116095,153.07265) # point=x color=red
+point(97.586001,187.47932) # point=x color=blue
+point(107.6441,201.92458) # point=x color=blue
+point(116.03888,212.86682) # point=x color=blue
+point(127.35846,220.29206) # point=x color=blue
+point(147.04821,223.56793) # point=x color=blue
+point(164.11684,219.65408) # point=x color=blue
+point(183.34891,214.30018) # point=x color=blue
+point(199.07796,206.93064) # point=x color=blue
+point(217.34091,111.50497) # point=x color=cyan
+point(212.53549,89.560957) # point=x color=cyan
+point(208.19522,78.469136) # point=x color=cyan
+point(197.1034,64.483796) # point=x color=cyan
+point(183.11806,54.356481) # point=x color=cyan
+point(162.38117,51.462963) # point=x color=cyan
+point(139.23302,52.427469) # point=x color=cyan
+point(122.83642,60.625772) # point=x color=cyan
+point(99.688272,77.50463) # point=x color=cyan
+point(87.631944,93.901235) # point=x color=cyan
+point(75.575617,114.63812) # point=x color=cyan
+point(69.306327,136.33951) # point=x color=cyan
+point(64.564172,155.79038) # point=x color=cyan
+point(66.975437,180.70679) # point=x color=cyan
+point(73.733411,202.84542) # point=x color=cyan

@@ -1,0 +1,28 @@
+# Best-fit model results for imfit 1.8.0 (OpenMP-enabled)
+# Generated on Thu Jul 18 23:53:56 2024 by the following command:
+#    /home/chugunov/IMFIT_sp/imfit -c input_nosp.imfit image.fits -mask mask.fits -save-model model_nosp.fits -save-params fit_nosp.imfit -save-residual residuals_nosp.fits -psf psf.fits -noise sigma.fits -ftol 1e-6
+
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 906513.437796
+#   Reduced value: 0.814557
+#   AIC: 906535.438033
+#   BIC: 906666.585103
+
+X0		699.5842 # +/- 0.0525
+Y0		500.6785 # +/- 0.0446
+FUNCTION Sersic
+PA		31.3539 # +/- 2.3394e+05
+ell		      0 # +/- 0
+n		0.422379 # +/- 0.0064787
+I_e		0.562095 # +/- 0.0041023
+r_e		30.5756 # +/- 0.11367
+FUNCTION BrokenExponential
+PA		124.117 # +/- 0
+ell		  0.456 # +/- 0
+I_0		2.07617 # +/- 0.0026478
+h1		123.201 # +/- 0.070641
+h2		252.628 # +/- 0.79265
+r_break		488.429 # +/- 0.56589
+alpha		    100 # +/- 0

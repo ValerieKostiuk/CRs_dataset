@@ -1,0 +1,15 @@
+X0          200
+Y0          200
+
+FUNCTION Sersic
+PA          90
+ell         0.05     0,0.3
+n           1     0.01,4
+I_e         0.1     0.00001,100
+r_e         5     1,10
+
+FUNCTION Exponential
+PA          0 fixed
+ell         0 fixed 
+I_0         0.1     0.000001,10
+h       40 10,300

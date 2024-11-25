@@ -1,0 +1,105 @@
+# Best-fit model results for imfit 1.9.0 (OpenMP-enabled)
+# Generated on Tue Sep 17 10:10:18 2024 by the following command:
+#    imfit -c input_sp.imfit image.fits -mask mask.fits -save-model model_sp.fits -save-params fit_sp.imfit -save-residual residuals_sp.fits -psf psf.fits -noise sigma.fits -ftol 1e-6
+
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 202247.909473
+#   Reduced value: 1.950938
+#   AIC: 202369.982438
+#   BIC: 202952.430642
+
+X0		203.2398 # +/- 0.0821
+Y0		134.4167 # +/- 0.0783
+FUNCTION Sersic
+PA		880.446 # +/- 1.0304	deg (CCW from +y axis)
+ell		    0.3 # +/- 0
+n		0.576905 # +/- 0.014645
+I_e		0.0873279 # +/- 0.0015569	counts/pixel
+r_e		16.2873 # +/- 0.20274	pixels
+FUNCTION Exponential
+PA		124.117 # +/- 0	deg (CCW from +y axis)
+ell		  0.456 # +/- 0
+I_0		0.0935529 # +/- 0.001147	counts/pixel
+h		42.4558 # +/- 0.18429	pixels
+FUNCTION SpiralArm0b
+PA		124.117 # +/- 0
+ell		  0.456 # +/- 0
+r_0		32.5567 # +/- 0.42137
+phi_0		-27.6206 # +/- 0.9174
+r_end		 134.94 # +/- 0.64098
+phi_end		142.753 # +/- 0.43758
+mu_a_2		-0.697075 # +/- 0.020684
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.381751 # +/- 0.01021
+part_growth		0.0819203 # +/- 0.0092811
+h_s		32.0323 # +/- 0.36102
+part_cutoff		   0.05 # +/- 0
+width		19.1171 # +/- 0.22712
+w_asymm		  -0.25 # +/- 0
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		      1 # +/- 0
+gamma_in		   -0.5 # +/- 0
+FUNCTION SpiralArm0b
+PA		124.117 # +/- 0
+ell		  0.456 # +/- 0
+r_0		31.1599 # +/- 0
+phi_0		-127.332 # +/- 0
+r_end		89.5929 # +/- 0
+phi_end		109.263 # +/- 0.27595
+mu_a_2		 4.2842 # +/- 0.039061
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.0589166 # +/- 0.0018114
+part_growth		    0.4 # +/- 0
+h_s		359.884 # +/- 0
+part_cutoff		0.115134 # +/- 0.0058132
+width		 11.763 # +/- 0.31668
+w_asymm		   0.25 # +/- 0
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		   -0.5 # +/- 0
+gamma_in		      1 # +/- 0
+FUNCTION SpiralArm0b
+PA		124.117 # +/- 0
+ell		  0.456 # +/- 0
+r_0		32.0164 # +/- 0.45039
+phi_0		94.3793 # +/- 1.2267
+r_end		96.5725 # +/- 1.1418
+phi_end		306.111 # +/- 0.58591
+mu_a_2		0.0831657 # +/- 0.038908
+mu_a_3		-1.09303 # +/- 0.07261
+mu_a_4		      0 # +/- 0
+I_0		0.186911 # +/- 0.0047606
+part_growth		0.156413 # +/- 0.010282
+h_s		52.2673 # +/- 1.1871
+part_cutoff		    0.3 # +/- 0
+width		23.3501 # +/- 0.19224
+w_asymm		   0.25 # +/- 0
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		      1 # +/- 0
+gamma_in		      1 # +/- 0
+FUNCTION SpiralArm0b
+PA		124.117 # +/- 0
+ell		  0.456 # +/- 0
+r_0		 12.143 # +/- 0.39791
+phi_0		154.641 # +/- 1.0813
+r_end		32.1226 # +/- 0.51975
+phi_end		342.356 # +/- 0.72453
+mu_a_2		-3.54503 # +/- 0.066806
+mu_a_3		1.38965 # +/- 0.066337
+mu_a_4		      0 # +/- 0
+I_0		0.844058 # +/- 0.029437
+part_growth		0.0700154 # +/- 0.010035
+h_s		 22.503 # +/- 0.43862
+part_cutoff		0.266661 # +/- 0.0069778
+width		15.6209 # +/- 0.17573
+w_asymm		0.10666 # +/- 0.018513
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		      1 # +/- 0
+gamma_in		      1 # +/- 0

@@ -1,0 +1,85 @@
+# Best-fit model results for imfit 1.8.0 (OpenMP-enabled)
+# Generated on Fri Jul 19 18:21:41 2024 by the following command:
+#    /home/chugunov/IMFIT_sp/imfit -c input_sp.imfit image.fits -mask mask.fits -save-model model_sp.fits -save-params fit_sp.imfit -save-residual residuals_sp.fits -psf psf.fits -noise sigma.fits -ftol 1e-6
+
+# Results of fit:
+#   Algorithm: Levenberg-Marquardt: status = 1 -- SUCCESS: Convergence in fit-statistic value.
+#   Fit statistic: chi-squared (user-supplied errors)
+#   Best-fit value: 297439.062336
+#   Reduced value: 1.969456
+#   AIC: 297533.092212
+#   BIC: 297999.561703
+
+X0		200.5641 # +/- 0.0123
+Y0		200.2460 # +/- 0.0149
+FUNCTION Sersic
+PA		 110511 # +/- 0.38299
+ell		 0.2745 # +/- 0.0035261
+n		0.0375323 # +/- 0.010185
+I_e		0.161317 # +/- 0.001204
+r_e		5.77787 # +/- 1.1661
+FUNCTION Exponential
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+I_0		0.00719597 # +/- 4.8655e-05
+h		36.0776 # +/- 0.10673
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		82.6183 # +/- 0.16484
+phi_0		92.3679 # +/- 0.30383
+r_end		108.044 # +/- 0.14885
+phi_end		-17.1398 # +/- 0.31565
+mu_a_2		     -0 # +/- 0
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.81934 # +/- 0.12522
+part_growth		0.357076 # +/- 0.0077146
+h_s		 19.557 # +/- 0.60176
+part_cutoff		0.0906911 # +/- 0.0059176
+width		14.5171 # +/- 0.087532
+w_asymm		-0.167205 # +/- 0.012805
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		   -0.5 # +/- 0
+gamma_in		   -0.5 # +/- 0
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		39.6198 # +/- 0.26177
+phi_0		-16.5657 # +/- 0.93714
+r_end		141.612 # +/- 0.87696
+phi_end		-294.163 # +/- 0.44337
+mu_a_2		2.50761 # +/- 0.023658
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.0162585 # +/- 0.00025422
+part_growth		0.162157 # +/- 0.0063577
+h_s		 69.367 # +/- 1.3969
+part_cutoff		0.130544 # +/- 0.0037438
+width		13.4342 # +/- 0.077891
+w_asymm		   0.25 # +/- 0
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		   -0.5 # +/- 0
+gamma_in		      1 # +/- 0
+FUNCTION SpiralArm0b
+PA		      0 # +/- 0
+ell		      0 # +/- 0
+r_0		41.3129 # +/- 0.13217
+phi_0		9.42978 # +/- 0.24539
+r_end		108.237 # +/- 0.2292
+phi_end		-160.145 # +/- 0.43353
+mu_a_2		-0.472514 # +/- 0.0081613
+mu_a_3		      0 # +/- 0
+mu_a_4		      0 # +/- 0
+I_0		0.751243 # +/- 0.023785
+part_growth		    0.4 # +/- 0
+h_s		17.7074 # +/- 0.12328
+part_cutoff		0.0726902 # +/- 0.0052638
+width		12.0894 # +/- 0.060869
+w_asymm		-0.033503 # +/- 0.011162
+n_out		    0.5 # +/- 0
+n_in		    0.5 # +/- 0
+gamma_out		   -0.5 # +/- 0
+gamma_in		      1 # +/- 0

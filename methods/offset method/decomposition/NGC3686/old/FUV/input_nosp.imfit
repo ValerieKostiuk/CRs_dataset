@@ -1,0 +1,10 @@
+X0          50
+Y0          50
+FUNCTION PointSource
+I_tot 0.01
+
+FUNCTION Exponential
+PA		18.9772 fixed
+ell		0.229515 fixed
+I_0         0.0001     0,0.1
+h           10    4.00000,40.00000

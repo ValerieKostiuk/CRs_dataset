@@ -1,0 +1,18 @@
+X0          100
+Y0          100
+FUNCTION PointSource
+I_tot 30
+
+FUNCTION Sersic_GenEllipse
+PA        90 60,120
+ell            0.6 0.5,0.8
+c0              0 fixed
+n        	0.5 fixed
+I_e        0.1 0,10
+r_e        3 1,8
+
+FUNCTION Exponential
+PA        18.9772 fixed
+ell        0.229515 fixed
+I_0         0.2     0.00001,10
+h           14.52820    8.00000,60.00000

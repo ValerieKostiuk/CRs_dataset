@@ -1,0 +1,38 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(229.17236,220.09292) # point=x
+point(236.94199,201.6512) # point=x
+point(236.54384,183.53694) # point=x
+point(219.65382,163.30165) # point=x
+point(203.4001,156.03437) # point=x
+point(184.77978,151.88163) # point=x
+point(169.14005,150.36343) # point=x
+point(149.36989,153.94683) # point=x
+point(131.06214,164.46264) # point=x
+point(111.3813,178.09298) # point=x
+point(98.521219,194.16808) # point=x
+point(88.47428,208.2338) # point=x
+point(78.29874,231.04437) # point=x
+point(188.87669,230.47102) # point=x color=red
+point(205.55461,241.45568) # point=x color=red
+point(222.90233,246.81405) # point=x color=red
+point(240.18306,247.2829) # point=x color=red
+point(258.46849,235.82939) # point=x color=red
+point(274.74454,218.68261) # point=x color=red
+point(283.98771,198.05289) # point=x color=red
+point(284.92543,175.21285) # point=x color=red
+point(282.64813,151.16718) # point=x color=red
+point(276.75392,129.33183) # point=x color=red
+point(254.44972,106.55877) # point=x color=red
+point(119.41885,221.89763) # point=x color=blue
+point(121.83012,236.7671) # point=x color=blue
+point(129.46579,252.44033) # point=x color=blue
+point(135.09208,266.50604) # point=x color=blue
+point(143.93338,276.95486) # point=x color=blue
+point(153.98032,284.18866) # point=x color=blue
+point(162.82163,291.82433) # point=x color=blue
+point(176.48547,299.46001) # point=x color=blue
+point(190.55118,299.46001) # point=x color=blue
+point(203.81314,299.46001) # point=x color=blue
+point(218.68261,296.64686) # point=x color=blue

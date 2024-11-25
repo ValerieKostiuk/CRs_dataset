@@ -1,0 +1,18 @@
+X0          233
+Y0          167
+
+FUNCTION Sersic
+PA          90
+ell         0.05     0,0.5
+n           1     0.01,4
+I_e         50     0.001,1000
+r_e         10     3,100
+
+FUNCTION BrokenExponential
+PA          124.117 fixed
+ell         0.456 fixed
+I_0         10     0.001,100
+h1       50 3,200
+h2       67 3,200
+r_break 83 30,200
+alpha 100 fixed
