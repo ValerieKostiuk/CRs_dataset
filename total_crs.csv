@@ -129,7 +129,7 @@ MESSIER 058,NGC4579,81.3,"(0.0, 0.0)","(81.3, 81.3)",0.0,potential-density,Buta 
 MESSIER 058,PGC42168,26.01,"(2.41, 2.41)","(23.6, 28.42)",4.82,P-D,Sierra et al. (2015),176.65,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 MESSIER 058,NGC4579,48.0,"(0.0, 0.0)","(48.0, 48.0)",0.0,potential-density,Buta & Zhang (2009),176.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 MESSIER 058,NGC4579,24.7,"(0.0, 0.0)","(24.7, 24.7)",0.0,potential-density,Buta & Zhang (2009),176.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-MESSIER 058,NGC4579,71.1,"(8.4, 8.4)","(62.7, 79.5)",16.8,model,Rautiainen & Laurikainen (2008),176.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+MESSIER 058,NGC4579,71.1,"(8.4, 8.4)","(62.7, 79.5)",16.8,model,Rautiainen & Laurikainen (2008),176.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 MESSIER 058,PGC42168,84.9,"(1.5, 1.5)","(83.4, 86.4)",3.0,morph,Elmegreen & Elmegreen (1995),176.65,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 MESSIER 058,NGC4579,80.73,"(17.5, 17.5)","(63.23, 98.22)",34.99,T-W,Williams et al. (2021),176.65,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 MESSIER 058,PGC 42168,69.6,"(6.8, 6.8)","(62.8, 76.4)",13.6,widths,Marchuk et al.,176.65,False,optical,stellar,https://arxiv.org/pdf/2309.16232.pdf
@@ -145,7 +145,7 @@ MESSIER 061,UGC7420,49.9,"(1.1, 1.1)","(48.8, 51.0)",2.2,F-B,F-B works,193.7,Fal
 MESSIER 061,UGC7420,60.4,"(2.3, 2.3)","(58.1, 62.7)",4.6,F-B,F-B works,193.7,False,"Halpha, HI",ISM,
 MESSIER 061,PGC40001,78.3,"(1.5, 1.5)","(76.8, 79.8)",3.0,morph,Elmegreen & Elmegreen (1995),193.7,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 MESSIER 061,UGC7420,68.0,"(1.0, 1.0)","(67.0, 69.0)",2.0,F-B,F-B works,193.7,False,"Halpha, HI",ISM,
-MESSIER 061,NGC4303,89.1,"(8.5, 8.5)","(80.6, 97.6)",17.0,model,Rautiainen & Laurikainen (2008),193.7,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+MESSIER 061,NGC4303,89.1,"(8.5, 8.5)","(80.6, 97.6)",17.0,model,Rautiainen & Laurikainen (2008),193.7,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 MESSIER 061,UGC7420,26.6,"(1.0, 1.0)","(25.6, 27.6)",2.0,F-B,F-B works,193.7,False,"Halpha, HI",ISM,
 MESSIER 061,UGC7420,4.6,"(1.0, 1.0)","(3.6, 5.6)",2.0,F-B,F-B works,193.7,False,"Halpha, HI",ISM,
 MESSIER 061,NGC4303,20.8,"(0.0, 0.0)","(20.8, 20.8)",0.0,potential-density,Buta & Zhang (2009),193.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -207,7 +207,7 @@ MESSIER 090,NGC4569,1.23,"(1.23, 1.23)","(0.0, 2.46)",2.46,T-W,Williams et al. (
 MESSIER 090,NGC4569,61.39,"(31.31, 31.31)","(30.08, 92.7)",62.62,T-W,Williams et al. (2021),286.5,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 MESSIER 090,NGC4569,154.44,"(37.95,37.95)","(116.48,192.39)",75.91,bar-torque,M. Ruiz-García et al. (2024),286.5,True,"CO,NIR",both, https://arxiv.org/pdf/2410.13353
 MESSIER 091,NGC4548,74.8,"(0.0, 0.0)","(74.8, 74.8)",0.0,potential-density,Buta & Zhang (2009),161.1,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-MESSIER 091,NGC4548,95.2,"(11.9, 11.9)","(83.3, 107.1)",23.8,model,Rautiainen & Laurikainen (2008),161.1,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+MESSIER 091,NGC4548,95.2,"(11.9, 11.9)","(83.3, 107.1)",23.8,model,Rautiainen & Laurikainen (2008),161.1,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 MESSIER 091,PGC41934,18.41,"(3.23, 3.23)","(15.18, 21.64)",6.46,P-D,Sierra et al. (2015),161.1,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 MESSIER 091,PGC41934,18.41,"(3.23, 3.23)","(15.18, 21.64)",6.46,P-D,Sierra et al. (2015),161.1,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 MESSIER 091,NGC4548,19.0,"(0.0, 0.0)","(19.0, 19.0)",0.0,potential-density,Buta & Zhang (2009),161.1,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -312,7 +312,7 @@ NGC 0271,NGC271,40.5,"(14.73, 27.61)","(25.78, 68.12)",42.34,T-W,Cuomo et al. (2
 NGC 0278,NGC278,25.3,"(0.0, 0.0)","(25.3, 25.3)",0.0,potential-density,Buta & Zhang (2009),62.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0289,NGC0289,84.3,"(15.3, 15.3)","(69.0, 99.6)",30.6,morph,Elmegreen & Elmegreen (1995),153.85,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 0289,NGC289,66.2,"(0.0, 0.0)","(66.2, 66.2)",0.0,potential-density,Buta & Zhang (2009),153.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 0289,NGC0289,61.0,"(9.5, 9.5)","(51.5, 70.5)",19.0,model,Rautiainen & Laurikainen (2008),153.85,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 0289,NGC0289,61.0,"(9.5, 9.5)","(51.5, 70.5)",19.0,model,Rautiainen & Laurikainen (2008),153.85,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 0289,NGC289,133.2,"(0.0, 0.0)","(133.2, 133.2)",0.0,potential-density,Buta & Zhang (2009),153.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0289,NGC289,21.3,"(0.0, 0.0)","(21.3, 21.3)",0.0,potential-density,Buta & Zhang (2009),153.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0289,NGC289,3.9,"(0.3, 0.3)","(3.6, 4.2)",0.6,potential-density,Buta & Zhang (2009),153.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -343,14 +343,14 @@ NGC 0575,NGC575,5.97,"(0.0, 0.0)","(5.97, 5.97)",0.0,bar-torque,Verley et al. (2
 NGC 0575,NGC575,19.54,"(0.0, 0.0)","(19.54, 19.54)",0.0,bar-torque,Verley et al. (2007),50.95,False,"Halpha,r",both,https://arxiv.org/pdf/0707.4127.pdf
 NGC 0575,NGC575,25.51,"(0.0, 0.0)","(25.51, 25.51)",0.0,bar-torque,Verley et al. (2007),50.95,False,"Halpha,r",both,https://arxiv.org/pdf/0707.4127.pdf
 NGC 0578,NGC0578,49.8,"(3.0, 3.0)","(46.8, 52.8)",6.0,morph,Elmegreen & Elmegreen (1995),146.95,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
-NGC 0578,NGC0578,78.9,"(15.8, 15.8)","(63.1, 94.7)",31.6,model,Rautiainen & Laurikainen (2008),146.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 0578,NGC0578,78.9,"(15.8, 15.8)","(63.1, 94.7)",31.6,model,Rautiainen & Laurikainen (2008),146.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 0578,NGC578,38.8,"(0.0, 0.0)","(38.8, 38.8)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0578,NGC578,19.1,"(0.0, 0.0)","(19.1, 19.1)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0578,NGC578,79.9,"(0.0, 0.0)","(79.9, 79.9)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0578,NGC578,92.2,"(9.7, 9.7)","(82.5, 101.9)",19.4,offset,"Martinez-Garcia et al. (2008,2011)",146.95,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
 NGC 0578,NGC578,90.8,"(10.9, 10.9)","(79.9, 101.7)",21.8,offset,"Martinez-Garcia et al. (2008,2011)",146.95,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
 NGC 0613,NGC613,5.0,"(0.0, 0.0)","(5.0, 5.0)",0.0,potential-density,Buta & Zhang (2009),164.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 0613,NGC0613,126.2,"(14.6, 14.6)","(111.6, 140.8)",29.2,model,Rautiainen & Laurikainen (2008),164.85,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 0613,NGC0613,126.2,"(14.6, 14.6)","(111.6, 140.8)",29.2,model,Rautiainen & Laurikainen (2008),164.85,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 0613,NGC0613,100.2,"(2.4, 2.4)","(97.8, 102.6)",4.8,morph,Elmegreen & Elmegreen (1995),164.85,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 0613,NGC613,88.0,"(0.0, 0.0)","(88.0, 88.0)",0.0,potential-density,Buta & Zhang (2009),164.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 0613,NGC613,55.1,"(0.0, 0.0)","(55.1, 55.1)",0.0,potential-density,Buta & Zhang (2009),164.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -434,7 +434,7 @@ NGC 1058,NGC1058,30.5,"(0.0, 0.0)","(30.5, 30.5)",0.0,potential-density,Buta & Z
 NGC 1058,UGC2193,55.6,"(1.7, 1.7)","(53.9, 57.3)",3.4,F-B,F-B works,90.6,False,"Halpha, HI",ISM,
 NGC 1058,UGC2193,26.6,"(4.6, 4.6)","(22.0, 31.2)",9.2,F-B,F-B works,90.6,False,"Halpha, HI",ISM,
 NGC 1058,UGC2193,47.6,"(1.7, 1.7)","(45.9, 49.3)",3.4,F-B,F-B works,90.6,False,"Halpha, HI",ISM,
-NGC 1073,NGC1073,48.7,"(4.4, 4.4)","(44.3, 53.1)",8.8,model,Rautiainen & Laurikainen (2008),146.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1073,NGC1073,48.7,"(4.4, 4.4)","(44.3, 53.1)",8.8,model,Rautiainen & Laurikainen (2008),146.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1073,NGC1073,38.0,"(0.0, 0.0)","(38.0, 38.0)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1073,NGC1073,89.3,"(0.0, 0.0)","(89.3, 89.3)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1073,NGC1073,63.6,"(4.8, 4.8)","(58.8, 68.4)",9.6,morph,Elmegreen & Elmegreen (1995),146.95,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
@@ -455,7 +455,7 @@ NGC 1087,NGC1087,20.82,"(1.30,1.30)","(19.52,22.12)",2.60,bar-torque,M. Ruiz-Gar
 NGC 1097,NGC1097,96.6,"(30.5, 30.5)","(66.09, 127.1)",61.01,T-W,Williams et al. (2021),280.0,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 1097,NGC1097,131.46,"(2.18, 2.18)","(129.28, 133.64)",4.36,T-W,Williams et al. (2021),280.0,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 1097,NGC1097,97.21,"(12.15,12.15)","(85.06,109.36)",24.30,bar-torque,M. Ruiz-García et al. (2024),280.0,True,"CO,NIR",both, https://arxiv.org/pdf/2410.13353 
-NGC 1187,NGC1187,74.1,"(16.1, 16.1)","(58.0, 90.2)",32.2,model,Rautiainen & Laurikainen (2008),164.85,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1187,NGC1187,74.1,"(16.1, 16.1)","(58.0, 90.2)",32.2,model,Rautiainen & Laurikainen (2008),164.85,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1187,NGC1187,55.0,"(0.0, 0.0)","(55.0, 55.0)",0.0,potential-density,Buta & Zhang (2009),164.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1187,NGC1187,49.8,"(1.8, 1.8)","(48.0, 51.6)",3.6,morph,Elmegreen & Elmegreen (1995),164.85,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 1187,NGC1187,13.0,"(1.9, 1.9)","(11.1, 14.9)",3.8,potential-density,Buta & Zhang (2009),164.85,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -464,7 +464,7 @@ NGC 1232,NGC1232,73.5,"(2.7, 2.7)","(70.8, 76.2)",5.4,morph,Elmegreen & Elmegree
 NGC 1232,NGC1232,147.33,"(20.63, 20.63)","(126.71, 167.96)",41.25,metallicity,Scarano & Lepine (2012),222.4,False,12+log(O/H),stellar,https://arxiv.org/pdf/1209.5031.pdf
 NGC 1232,NGC1232,123.38,"(0.0, 0.0)","(123.38, 123.38)",0.0,morph,Elmegreen et al. (1992),222.4,False,B?,stellar,http://articles.adsabs.harvard.edu/pdf/1992ApJS...79...37E
 NGC 1241,NGC1241,12.4,"(1.1, 1.1)","(11.3, 13.5)",2.2,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 1241,NGC1241,41.5,"(4.0, 4.0)","(37.5, 45.5)",8.0,model,Rautiainen & Laurikainen (2008),84.55,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1241,NGC1241,41.5,"(4.0, 4.0)","(37.5, 45.5)",8.0,model,Rautiainen & Laurikainen (2008),84.55,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1291:[LET2019] 052,NGC1291,175.0,"(6.3, 6.3)","(168.7, 181.3)",12.6,gaps,Buta (2017),293.15,True,SDSS,stellar,https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.3819B/abstract
 NGC 1300,NGC1300,94.5,"(6.9, 6.9)","(87.6, 101.4)",13.8,morph,Elmegreen & Elmegreen (1995),185.0,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 1300,NGC1300,100.78,"(0.0, 0.0)","(100.78, 100.78)",0.0,morph,Elmegreen et al. (1992),185.0,False,B?,stellar,http://articles.adsabs.harvard.edu/pdf/1992ApJS...79...37E
@@ -477,14 +477,14 @@ NGC 1300,NGC 1300,100.0,"(10.0, 10.0)","(90.0, 110.0)",20.0,offset,Aguerri et al
 NGC 1300,NGC1300,66.19,"(26.67, 26.67)","(39.51, 92.86)",53.34,T-W,Williams et al. (2021),185.0,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 1300,NGC1300,71.65,"(1.09,1.09)","(70.56,72.74)",2.17,bar-torque,M. Ruiz-García et al. (2024),185.0,True,"CO,NIR",both, https://arxiv.org/pdf/2410.13353 
 NGC 1302,NGC1302,55.0,"(0.0, 0.0)","(55.0, 55.0)",0.0,potential-density,Buta & Zhang (2009),116.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 1302,NGC1302,50.4,"(4.6, 4.6)","(45.8, 55.0)",9.2,model,Rautiainen & Laurikainen (2008),116.7,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1302,NGC1302,50.4,"(4.6, 4.6)","(45.8, 55.0)",9.2,model,Rautiainen & Laurikainen (2008),116.7,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1302,NGC1302,83.6,"(0.0, 0.0)","(83.6, 83.6)",0.0,potential-density,Buta & Zhang (2009),116.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1302,NGC1302,31.0,"(0.0, 0.0)","(31.0, 31.0)",0.0,potential-density,Buta & Zhang (2009),116.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1308,NGC1308,8.97,"(2.31, 4.54)","(6.66, 13.51)",6.85,T-W,Cuomo et al. (2020),35.25,True,"CALIFA,MANGA,different",stellar,https://arxiv.org/pdf/2003.07455.pdf
 NGC 1309,NGC1309,7.8,"(0.0, 0.0)","(7.8, 7.8)",0.0,potential-density,Buta & Zhang (2009),65.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1309,NGC1309,15.3,"(0.0, 0.0)","(15.3, 15.3)",0.0,potential-density,Buta & Zhang (2009),65.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1309,NGC1309,34.2,"(1.9, 1.9)","(32.3, 36.1)",3.8,potential-density,Buta & Zhang (2009),65.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 1317,NGC1317,54.5,"(10.4, 10.4)","(44.1, 64.9)",20.8,model,Rautiainen & Laurikainen (2008),82.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1317,NGC1317,54.5,"(10.4, 10.4)","(44.1, 64.9)",20.8,model,Rautiainen & Laurikainen (2008),82.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1317,NGC1317,16.83,"(11.4, 11.4)","(5.43, 28.23)",22.8,T-W,Williams et al. (2021),82.65,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 1317,NGC1317,105.4,"(0.0, 0.0)","(105.4, 105.4)",0.0,potential-density,Buta & Zhang (2009),82.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1317,NGC1317,43.3,"(0.0, 0.0)","(43.3, 43.3)",0.0,potential-density,Buta & Zhang (2009),82.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -584,7 +584,7 @@ NGC 1808,NGC1808,7.0,"(0.2, 0.2)","(6.8, 7.2)",0.4,potential-density,Buta & Zhan
 NGC 1809,NGC1809,14.09,"(11.34, 11.34)","(2.75, 25.44)",22.69,T-W,Williams et al. (2021),94.85,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 1832,NGC1832,22.6,"(0.0, 0.0)","(22.6, 22.6)",0.0,potential-density,Buta & Zhang (2009),77.1,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 1832,NGC1832,38.6,"(0.0, 0.0)","(38.6, 38.6)",0.0,potential-density,Buta & Zhang (2009),77.1,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 1832,NGC1832,32.8,"(3.1, 3.1)","(29.7, 35.9)",6.2,model,Rautiainen & Laurikainen (2008),77.1,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 1832,NGC1832,32.8,"(3.1, 3.1)","(29.7, 35.9)",6.2,model,Rautiainen & Laurikainen (2008),77.1,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 1832,NGC1832,48.92,"(0.0, 0.0)","(48.92, 48.92)",0.0,morph,Roberts et al. (1975),77.1,False,HII,ISM,
 NGC 2090,NGC2090,1.75,"(1.75, 1.75)","(0.0, 3.5)",3.5,T-W,Williams et al. (2021),146.95,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 2090,NGC2090,50.69,"(7.87, 7.87)","(42.83, 58.56)",15.73,T-W,Williams et al. (2021),146.95,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
@@ -763,10 +763,10 @@ NGC 3237,J102543.29+393846.9,27.72,"(0.0, 0.0)","(27.72, 27.72)",0.0,rings,Perez
 NGC 3261,NGC3261,37.7,"(0.0, 0.0)","(37.7, 37.7)",0.0,potential-density,Buta & Zhang (2009),111.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3261,NGC3261,52.3,"(0.0, 0.0)","(52.3, 52.3)",0.0,potential-density,Buta & Zhang (2009),111.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3261,NGC3261,28.6,"(0.0, 0.0)","(28.6, 28.6)",0.0,potential-density,Buta & Zhang (2009),111.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 3261,NGC3261,44.1,"(4.4, 4.4)","(39.7, 48.5)",8.8,model,Rautiainen & Laurikainen (2008),111.45,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3261,NGC3261,44.1,"(4.4, 4.4)","(39.7, 48.5)",8.8,model,Rautiainen & Laurikainen (2008),111.45,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3275,NGC3275,6.1,"(0.2, 0.2)","(5.9, 6.3)",0.4,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3275,NGC3275,25.7,"(1.3, 1.3)","(24.4, 27.0)",2.6,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 3275,NGC3275,44.2,"(4.6, 4.6)","(39.6, 48.8)",9.2,model,Rautiainen & Laurikainen (2008),84.55,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3275,NGC3275,44.2,"(4.6, 4.6)","(39.6, 48.8)",9.2,model,Rautiainen & Laurikainen (2008),84.55,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3294,PGC31428,43.2,"(4.2, 4.2)","(39.0, 47.4)",8.4,morph,Elmegreen & Elmegreen (1995),106.45,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 3300,NGC3300,28.29,"(7.05, 9.46)","(21.24, 37.75)",16.51,T-W,Cuomo et al. (2020),57.15,True,"CALIFA,MANGA,different",stellar,https://arxiv.org/pdf/2003.07455.pdf
 NGC 3310,UGC5786,20.6,"(2.1, 2.1)","(18.5, 22.7)",4.2,F-B,F-B works,92.7,False,"Halpha, HI",ISM,
@@ -825,7 +825,7 @@ NGC 3504,NGC3504,48.0,"(0.0, 0.0)","(48.0, 48.0)",0.0,P-D,Aguerri et al. (1998),
 NGC 3504,UGC6118,37.6,"(2.2, 2.2)","(35.4, 39.8)",4.4,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
 NGC 3504,UGC6118,29.1,"(2.8, 2.8)","(26.3, 31.9)",5.6,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
 NGC 3504,UGC6118,19.2,"(2.5, 2.5)","(16.7, 21.7)",5.0,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
-NGC 3504,NGC3504,44.5,"(5.6, 5.6)","(38.9, 50.1)",11.2,model,Rautiainen & Laurikainen (2008),80.75,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3504,NGC3504,44.5,"(5.6, 5.6)","(38.9, 50.1)",11.2,model,Rautiainen & Laurikainen (2008),80.75,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3504,UGC6118,9.9,"(2.2, 2.2)","(7.7, 12.1)",4.4,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
 NGC 3504,UGC6118,66.6,"(1.6, 1.6)","(65.0, 68.2)",3.2,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
 NGC 3504,NGC3504,41.9,"(0.0, 0.0)","(41.9, 41.9)",0.0,potential-density,Buta & Zhang (2009),80.75,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -833,7 +833,7 @@ NGC 3507,NGC3507,0.99,"(0.99, 0.99)","(0.0, 1.97)",1.97,T-W,Williams et al. (202
 NGC 3507,NGC3507,8.64,"(2.22, 2.22)","(6.41, 10.86)",4.44,T-W,Williams et al. (2021),101.65,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 3507,NGC3507,36.76,"(24.43, 24.43)","(12.34, 61.19)",48.85,T-W,Williams et al. (2021),101.65,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 3507,NGC3507,52.1,"(1.7, 1.7)","(50.4, 53.8)",3.4,potential-density,Buta & Zhang (2009),101.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 3507,NGC3507,34.2,"(2.6, 2.6)","(31.6, 36.8)",5.2,model,Rautiainen & Laurikainen (2008),101.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3507,NGC3507,34.2,"(2.6, 2.6)","(31.6, 36.8)",5.2,model,Rautiainen & Laurikainen (2008),101.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3507,NGC3507,26.3,"(0.0, 0.0)","(26.3, 26.3)",0.0,potential-density,Buta & Zhang (2009),101.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3507,NGC3507,26.28,"(0.88,0.88)","(25.40,27.15)",1.75,bar-torque,M. Ruiz-García et al. (2024),101.65,True,"CO,NIR",both, https://arxiv.org/pdf/2410.13353 
 NGC 3511,NGC3511,84.99,"(21.77, 21.77)","(63.23, 106.76)",43.53,T-W,Williams et al. (2021),172.65,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
@@ -842,7 +842,7 @@ NGC 3513,NGC3513,18.2,"(2.2, 2.2)","(16.0, 20.4)",4.4,offset,"Martinez-Garcia et
 NGC 3513,NGC3513,20.7,"(2.5, 2.5)","(18.2, 23.2)",5.0,offset,"Martinez-Garcia et al. (2008,2011)",84.55,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
 NGC 3513,NGC3513,2.0,"(0.0, 0.0)","(2.0, 2.0)",0.0,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3513,NGC3513,59.6,"(0.0, 0.0)","(59.6, 59.6)",0.0,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 3513,NGC3513,43.5,"(5.4, 5.4)","(38.1, 48.9)",10.8,model,Rautiainen & Laurikainen (2008),84.55,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3513,NGC3513,43.5,"(5.4, 5.4)","(38.1, 48.9)",10.8,model,Rautiainen & Laurikainen (2008),84.55,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3513,NGC3513,59.7,"(2.1, 2.1)","(57.6, 61.8)",4.2,morph,Elmegreen & Elmegreen (1995),84.55,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 3513,NGC3513,29.0,"(3.4, 3.4)","(25.6, 32.4)",6.8,offset,"Martinez-Garcia et al. (2008,2011)",84.55,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
 NGC 3513,NGC3513,35.8,"(7.5, 7.5)","(28.3, 43.3)",15.0,offset,"Martinez-Garcia et al. (2008,2011)",84.55,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
@@ -854,7 +854,7 @@ NGC 3521,NGC3521,177.15,"(0.0, 0.0)","(177.15, 177.15)",0.0,morph,Roberts et al.
 NGC 3577,PGC34195,10.81,"(0.2, 0.2)","(10.61, 11.01)",0.4,P-D,Sierra et al. (2015),42.4,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 NGC 3583,NGC3583,64.6,"(0.0, 0.0)","(64.6, 64.6)",0.0,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3583,PGC 34232,34.8,"(6.0, 6.0)","(28.8, 40.8)",12.0,widths,Marchuk et al.,84.55,False,optical,stellar,https://arxiv.org/pdf/2309.16232.pdf
-NGC 3583,NGC3583,32.1,"(1.8, 1.8)","(30.3, 33.9)",3.6,model,Rautiainen & Laurikainen (2008),84.55,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3583,NGC3583,32.1,"(1.8, 1.8)","(30.3, 33.9)",3.6,model,Rautiainen & Laurikainen (2008),84.55,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3583,NGC3583,3.3,"(0.0, 0.0)","(3.3, 3.3)",0.0,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3583,NGC3583,30.5,"(0.0, 0.0)","(30.5, 30.5)",0.0,potential-density,Buta & Zhang (2009),84.55,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3583,PGC34232,12.0,"(1.54, 1.54)","(10.46, 13.54)",3.08,P-D,Sierra et al. (2015),84.55,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
@@ -889,7 +889,7 @@ NGC 3684,NGC3684,60.8,"(0.0, 0.0)","(60.8, 60.8)",0.0,potential-density,Buta & Z
 NGC 3684,NGC3684,35.4,"(3.0, 3.0)","(32.4, 38.4)",6.0,morph,Elmegreen & Elmegreen (1995),92.7,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 3684,NGC3684,27.7,"(0.0, 0.0)","(27.7, 27.7)",0.0,potential-density,Buta & Zhang (2009),92.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3686,NGC3686,42.3,"(5.1, 5.1)","(37.2, 47.4)",10.2,morph,Elmegreen & Elmegreen (1995),97.1,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
-NGC 3686,NGC3686,35.6,"(5.1, 5.1)","(30.5, 40.7)",10.2,model,Rautiainen & Laurikainen (2008),97.1,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3686,NGC3686,35.6,"(5.1, 5.1)","(30.5, 40.7)",10.2,model,Rautiainen & Laurikainen (2008),97.1,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3686,NGC3686,41.8,"(0.0, 0.0)","(41.8, 41.8)",0.0,potential-density,Buta & Zhang (2009),97.1,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 3719,UGC6521,27.9,"(1.8, 1.8)","(26.1, 29.7)",3.6,F-B,F-B works,53.35,False,"Halpha, HI",ISM,
 NGC 3719,UGC6521,21.0,"(1.6, 1.6)","(19.4, 22.6)",3.2,F-B,F-B works,53.35,False,"Halpha, HI",ISM,
@@ -900,7 +900,7 @@ NGC 3720,UGC6523,10.9,"(2.1, 2.1)","(8.8, 13.0)",4.2,F-B,F-B works,28.65,False,"
 NGC 3726,NGC3726,28.85,"(0.0, 0.0)","(28.85, 28.85)",0.0,offset,Sakhibov et al.,185.0,False,HII,stellar,https://arxiv.org/pdf/2109.02719.pdf
 NGC 3726,NGC3726,63.47,"(14.42, 14.42)","(49.04, 77.89)",28.85,offset,Sakhibov et al.,185.0,False,HII,stellar,https://arxiv.org/pdf/2109.02719.pdf
 NGC 3726,NGC3726,141.36,"(14.42, 14.42)","(126.93, 155.78)",28.85,offset,Sakhibov et al.,185.0,False,HII,stellar,https://arxiv.org/pdf/2109.02719.pdf
-NGC 3726,NGC3726,83.5,"(13.9, 13.9)","(69.6, 97.4)",27.8,model,Rautiainen & Laurikainen (2008),185.0,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 3726,NGC3726,83.5,"(13.9, 13.9)","(69.6, 97.4)",27.8,model,Rautiainen & Laurikainen (2008),185.0,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 3726,NGC3726,50.4,"(4.2, 4.2)","(46.2, 54.6)",8.4,morph,Elmegreen & Elmegreen (1995),185.0,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 3726,NGC3726,122.4,"(3.2, 3.2)","(119.2, 125.6)",6.4,F-B,F-B works,185.0,False,"Halpha, HI",ISM,
 NGC 3726,NGC3726,63.0,"(2.9, 2.9)","(60.1, 65.9)",5.8,F-B,F-B works,185.0,False,"Halpha, HI",ISM,
@@ -958,7 +958,7 @@ NGC 4045,UGC7021,39.4,"(1.9, 1.9)","(37.5, 41.3)",3.8,F-B,F-B works,80.75,False,
 NGC 4045,UGC7021,18.5,"(2.0, 2.0)","(16.5, 20.5)",4.0,F-B,F-B works,80.75,False,"Halpha, HI",ISM,
 NGC 4051,NGC4051,70.4,"(0.0, 0.0)","(70.4, 70.4)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4051,NGC4051,81.3,"(11.1, 11.1)","(70.2, 92.4)",22.2,morph,Elmegreen & Elmegreen (1995),157.45,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
-NGC 4051,NGC4051,98.0,"(14.0, 14.0)","(84.0, 112.0)",28.0,model,Rautiainen & Laurikainen (2008),157.45,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4051,NGC4051,98.0,"(14.0, 14.0)","(84.0, 112.0)",28.0,model,Rautiainen & Laurikainen (2008),157.45,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4051,NGC4051,3.3,"(0.0, 0.0)","(3.3, 3.3)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4062,UGC7045,85.4,"(1.2, 1.2)","(84.2, 86.6)",2.4,F-B,F-B works,122.2,False,"Halpha, HI",ISM,
 NGC 4062,UGC7045,54.2,"(2.4, 2.4)","(51.8, 56.6)",4.8,F-B,F-B works,122.2,False,"Halpha, HI",ISM,
@@ -966,7 +966,7 @@ NGC 4062,UGC7045,43.9,"(1.1, 1.1)","(42.8, 45.0)",2.2,F-B,F-B works,122.2,False,
 NGC 4113,NGC4113,24.1,"(2.1, 2.1)","(22.0, 26.2)",4.2,gaps,Buta (2017),28.89,True,SDSS,stellar,https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.3819B/abstract
 NGC 4123,NGC4123,108.9,"(0.0, 0.0)","(108.9, 108.9)",0.0,potential-density,Buta & Zhang (2009),130.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4123,NGC4123,55.4,"(0.0, 0.0)","(55.4, 55.4)",0.0,potential-density,Buta & Zhang (2009),130.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4123,NGC4123,69.1,"(9.4, 9.4)","(59.7, 78.5)",18.8,model,Rautiainen & Laurikainen (2008),130.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4123,NGC4123,69.1,"(9.4, 9.4)","(59.7, 78.5)",18.8,model,Rautiainen & Laurikainen (2008),130.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4123,NGC4123,65.0,"(0.0, 0.0)","(65.0, 65.0)",0.0,P-D,Aguerri et al. (1998),130.95,False,"B,I",stellar,https://iopscience.iop.org/article/10.1086/300615/pdf
 NGC 4123,NGC4123,58.8,"(10.2, 10.2)","(48.6, 69.0)",20.4,morph,Elmegreen & Elmegreen (1995),130.95,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 4123,NGC4123,18.0,"(0.0, 0.0)","(18.0, 18.0)",0.0,potential-density,Buta & Zhang (2009),130.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1007,12 +1007,12 @@ NGC 4293,NGC4293,142.3,"(0.0, 0.0)","(142.3, 142.3)",0.0,potential-density,Buta 
 NGC 4294,NGC4294,29.0,"(6.0, 4.0)","(23.0, 33.0)",10.0,T-W,Fathi et al. (2009),97.1,False,Halpha,ISM,https://arxiv.org/pdf/0909.1816.pdf
 NGC 4298,NGC4298,76.12,"(9.21, 9.21)","(66.91, 85.33)",18.42,T-W,Williams et al. (2021),97.1,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 4314,NGC4314,59.3,"(11.0, 11.0)","(48.3, 70.3)",22.0,offset,"Martinez-Garcia et al. (2008,2011)",125.05,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
-NGC 4314,NGC4314,81.7,"(10.2, 10.2)","(71.5, 91.9)",20.4,model,Rautiainen & Laurikainen (2008),125.05,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4314,NGC4314,81.7,"(10.2, 10.2)","(71.5, 91.9)",20.4,model,Rautiainen & Laurikainen (2008),125.05,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4314,NGC4314,42.8,"(8.8, 8.8)","(34.0, 51.6)",17.6,offset,"Martinez-Garcia et al. (2008,2011)",125.05,False,"r,J,g,i",stellar,"https://arxiv.org/pdf/0812.3647.pdf, https://arxiv.org/pdf/1104.5693.pdf"
 NGC 4314,NGC4314,3.3,"(0.0, 0.0)","(3.3, 3.3)",0.0,potential-density,Buta & Zhang (2009),125.05,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4314,NGC4314,76.9,"(0.0, 0.0)","(76.9, 76.9)",0.0,potential-density,Buta & Zhang (2009),125.05,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4394,NGC4394,89.6,"(0.0, 0.0)","(89.6, 89.6)",0.0,potential-density,Buta & Zhang (2009),108.9,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4394,NGC4394,76.7,"(10.0, 10.0)","(66.7, 86.7)",20.0,model,Rautiainen & Laurikainen (2008),108.9,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4394,NGC4394,76.7,"(10.0, 10.0)","(66.7, 86.7)",20.0,model,Rautiainen & Laurikainen (2008),108.9,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4394,PGC40614,50.4,"(0.6, 0.6)","(49.8, 51.0)",1.2,morph,Elmegreen & Elmegreen (1995),108.9,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 4394,NGC4394,42.4,"(0.0, 0.0)","(42.4, 42.4)",0.0,potential-density,Buta & Zhang (2009),108.9,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4394,NGC4394,16.7,"(0.0, 0.0)","(16.7, 16.7)",0.0,potential-density,Buta & Zhang (2009),108.9,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1022,12 +1022,12 @@ NGC 4414,NGC4414,76.2,"(0.0, 0.0)","(76.2, 76.2)",0.0,potential-density,Buta & Z
 NGC 4431,NGC4431,17.87,"(4.15, 6.06)","(13.72, 23.93)",10.21,T-W,Cuomo et al. (2020),52.15,True,"CALIFA,MANGA,different",stellar,https://arxiv.org/pdf/2003.07455.pdf
 NGC 4450,NGC4450,156.5,"(0.0, 0.0)","(156.5, 156.5)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4450,NGC4450,59.4,"(0.0, 0.0)","(59.4, 59.4)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4450,NGC4450,52.3,"(4.4, 4.4)","(47.9, 56.7)",8.8,model,Rautiainen & Laurikainen (2008),157.45,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4450,NGC4450,52.3,"(4.4, 4.4)","(47.9, 56.7)",8.8,model,Rautiainen & Laurikainen (2008),157.45,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4450,NGC4450,30.5,"(0.0, 0.0)","(30.5, 30.5)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4450,NGC4450,4.5,"(0.0, 0.0)","(4.5, 4.5)",0.0,potential-density,Buta & Zhang (2009),157.45,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4457,NGC4457,1.32,"(1.32, 1.32)","(0.0, 2.64)",2.64,T-W,Williams et al. (2021),80.75,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 4457,PGC41101,9.44,"(1.98, 1.98)","(7.46, 11.42)",3.96,P-D,Sierra et al. (2015),80.75,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
-NGC 4457,NGC4457,39.9,"(2.8, 2.8)","(37.1, 42.7)",5.6,model,Rautiainen & Laurikainen (2008),80.75,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4457,NGC4457,39.9,"(2.8, 2.8)","(37.1, 42.7)",5.6,model,Rautiainen & Laurikainen (2008),80.75,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4457,NGC4457,25.45,"(10.91, 10.91)","(14.54, 36.36)",21.82,T-W,Williams et al. (2021),80.75,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 4457,NGC4457,44.2,"(0.0, 0.0)","(44.2, 44.2)",0.0,potential-density,Buta & Zhang (2009),80.75,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4457,NGC4457,31.42,"(1.37,1.37)","(30.05,32.78)",2.73,bar-torque,M. Ruiz-García et al. (2024),80.75,True,"CO,NIR",both, https://arxiv.org/pdf/2410.13353 
@@ -1093,7 +1093,7 @@ NGC 4631,NGC4631,342.21,"(0.0, 0.0)","(342.21, 342.21)",0.0,morph,Roberts et al.
 NGC 4635,UGC7876,43.9,"(2.1, 2.1)","(41.8, 46.0)",4.2,F-B,F-B works,61.25,False,"Halpha, HI",ISM,
 NGC 4635,UGC7876,28.7,"(1.9, 1.9)","(26.8, 30.6)",3.8,F-B,F-B works,61.25,False,"Halpha, HI",ISM,
 NGC 4635,UGC7876,19.6,"(1.5, 1.5)","(18.1, 21.1)",3.0,F-B,F-B works,61.25,False,"Halpha, HI",ISM,
-NGC 4643,NGC4643,69.1,"(4.6, 4.6)","(64.5, 73.7)",9.2,model,Rautiainen & Laurikainen (2008),92.7,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4643,NGC4643,69.1,"(4.6, 4.6)","(64.5, 73.7)",9.2,model,Rautiainen & Laurikainen (2008),92.7,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4643,PGC42797,19.98,"(2.57, 2.57)","(17.41, 22.55)",5.14,P-D,Sierra et al. (2015),92.7,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 NGC 4643,NGC4643,50.2,"(0.0, 0.0)","(50.2, 50.2)",0.0,potential-density,Buta & Zhang (2009),92.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4643,NGC4643,6.2,"(0.0, 0.0)","(6.2, 6.2)",0.0,potential-density,Buta & Zhang (2009),92.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1120,7 +1120,7 @@ NGC 4654,NGC4654,25.34,"(1.88,1.88)","(23.46,27.21)",3.75,bar-torque,M. Ruiz-Gar
 NGC 4665,PGC42970,18.24,"(2.58, 2.58)","(15.66, 20.82)",5.16,P-D,Sierra et al. (2015),114.05,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 NGC 4665,NGC4665,16.8,"(0.0, 0.0)","(16.8, 16.8)",0.0,potential-density,Buta & Zhang (2009),114.05,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4665,NGC4665,47.2,"(0.0, 0.0)","(47.2, 47.2)",0.0,potential-density,Buta & Zhang (2009),114.05,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4665,NGC4665,55.2,"(11.8, 11.8)","(43.4, 67.0)",23.6,model,Rautiainen & Laurikainen (2008),114.05,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4665,NGC4665,55.2,"(11.8, 11.8)","(43.4, 67.0)",23.6,model,Rautiainen & Laurikainen (2008),114.05,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4689,NGC4689,34.1,"(0.8, 0.8)","(33.3, 34.9)",1.6,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4689,NGC4689,66.5,"(1.4, 1.4)","(65.1, 67.9)",2.8,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4689,NGC4689,103.0,"(0.0, 0.0)","(103.0, 103.0)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1151,8 +1151,8 @@ NGC 4902,NGC4902,9.0,"(0.0, 0.0)","(9.0, 9.0)",0.0,potential-density,Buta & Zhan
 NGC 4902,NGC4902,38.6,"(0.0, 0.0)","(38.6, 38.6)",0.0,potential-density,Buta & Zhang (2009),90.6,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4902,NGC4902,59.5,"(0.0, 0.0)","(59.5, 59.5)",0.0,potential-density,Buta & Zhang (2009),90.6,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4902,NGC4902,86.6,"(0.0, 0.0)","(86.6, 86.6)",0.0,potential-density,Buta & Zhang (2009),90.6,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4902,NGC4902,44.3,"(4.4, 4.4)","(39.9, 48.7)",8.8,model,Rautiainen & Laurikainen (2008),90.6,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
-NGC 4930,NGC4930,46.6,"(3.9, 3.9)","(42.7, 50.5)",7.8,model,Rautiainen & Laurikainen (2008),134.0,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4902,NGC4902,44.3,"(4.4, 4.4)","(39.9, 48.7)",8.8,model,Rautiainen & Laurikainen (2008),90.6,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4930,NGC4930,46.6,"(3.9, 3.9)","(42.7, 50.5)",7.8,model,Rautiainen & Laurikainen (2008),134.0,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4930,NGC4930,4.5,"(0.0, 0.0)","(4.5, 4.5)",0.0,potential-density,Buta & Zhang (2009),134.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4930,NGC4930,46.2,"(0.0, 0.0)","(46.2, 46.2)",0.0,potential-density,Buta & Zhang (2009),134.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4930,NGC4930,96.8,"(7.3, 7.3)","(89.5, 104.1)",14.6,potential-density,Buta & Zhang (2009),134.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1169,7 +1169,7 @@ NGC 4941,NGC4941,57.1,"(0.0, 0.0)","(57.1, 57.1)",0.0,potential-density,Buta & Z
 NGC 4951,NGC4951,1.72,"(1.72, 1.72)","(0.0, 3.44)",3.44,T-W,Williams et al. (2021),99.35,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 4951,NGC4951,24.06,"(2.58, 2.58)","(21.49, 26.64)",5.16,T-W,Williams et al. (2021),99.35,False,"CO,Halpha",ISM,https://arxiv.org/pdf/2102.01091.pdf
 NGC 4995,NGC4995,37.7,"(0.8, 0.8)","(36.9, 38.5)",1.6,potential-density,Buta & Zhang (2009),73.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 4995,NGC4995,64.2,"(5.5, 5.5)","(58.7, 69.7)",11.0,model,Rautiainen & Laurikainen (2008),73.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 4995,NGC4995,64.2,"(5.5, 5.5)","(58.7, 69.7)",11.0,model,Rautiainen & Laurikainen (2008),73.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 4995,NGC4995,21.6,"(0.8, 0.8)","(20.8, 22.4)",1.6,potential-density,Buta & Zhang (2009),73.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 4995,NGC4995,64.5,"(0.0, 0.0)","(64.5, 64.5)",0.0,potential-density,Buta & Zhang (2009),73.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 5005,NGC5005,114.59,"(0.0, 0.0)","(114.59, 114.59)",0.0,morph,Roberts et al. (1975),172.65,False,HII,ISM,
@@ -1308,7 +1308,7 @@ NGC 5701,NGC5701,69.7,"(3.0, 3.0)","(66.7, 72.7)",6.0,gaps,Buta (2017),127.95,Tr
 NGC 5701,NGC5701,78.76,"(10.31, 10.31)","(68.44, 89.07)",20.63,offset,Abdeen et al. (2020),127.95,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
 NGC 5701,NGC5701,91.88,"(4.69, 4.69)","(87.19, 96.57)",9.38,offset,Abdeen et al. (2020),127.95,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
 NGC 5701,NGC5701,86.9,"(0.0, 0.0)","(86.9, 86.9)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 5701,NGC5701,64.6,"(10.8, 10.8)","(53.8, 75.4)",21.6,model,Rautiainen & Laurikainen (2008),127.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 5701,NGC5701,64.6,"(10.8, 10.8)","(53.8, 75.4)",21.6,model,Rautiainen & Laurikainen (2008),127.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 5701,PGC52365,17.27,"(0.98, 0.98)","(16.29, 18.25)",1.96,P-D,Sierra et al. (2015),127.95,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 NGC 5701,NGC5701,15.4,"(0.0, 0.0)","(15.4, 15.4)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 5701,NGC5701,52.5,"(0.0, 0.0)","(52.5, 52.5)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1325,7 +1325,7 @@ NGC 5850,NGC5850,72.47,"(9.27, 9.27)","(63.2, 81.73)",18.53,offset,Abdeen et al.
 NGC 5850,NGC5850,97.51,"(4.19, 4.19)","(93.32, 101.7)",8.38,offset,Abdeen et al. (2020),127.95,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
 NGC 5850,NGC5850,29.9,"(0.0, 0.0)","(29.9, 29.9)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 5850,NGC5850,80.7,"(0.0, 0.0)","(80.7, 80.7)",0.0,potential-density,Buta & Zhang (2009),127.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 5850,NGC5850,105.1,"(11.7, 11.7)","(93.4, 116.8)",23.4,model,Rautiainen & Laurikainen (2008),127.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 5850,NGC5850,105.1,"(11.7, 11.7)","(93.4, 116.8)",23.4,model,Rautiainen & Laurikainen (2008),127.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 5874,UGC9736,27.5,"(2.8, 2.8)","(24.7, 30.3)",5.6,F-B,F-B works,68.75,False,"Halpha, HI",ISM,
 NGC 5874,PGC 54018,32.4,"(4.0, 4.0)","(28.4, 36.4)",8.0,widths,Marchuk et al.,68.75,False,optical,stellar,https://arxiv.org/pdf/2309.16232.pdf
 NGC 5874,PGC 54018,29.0,"(3.2, 3.2)","(25.8, 32.2)",6.4,widths,Marchuk et al.,68.75,False,optical,stellar,https://arxiv.org/pdf/2309.16232.pdf
@@ -1336,7 +1336,7 @@ NGC 5905,PGC54445,94.2,"(8.4, 8.4)","(85.8, 102.6)",16.8,morph,Elmegreen & Elmeg
 NGC 5921,NGC5921,47.0,"(0.0, 0.0)","(47.0, 47.0)",0.0,P-D,Aguerri et al. (1998),146.95,False,"B,I",stellar,https://iopscience.iop.org/article/10.1086/300615/pdf
 NGC 5921,PGC54849,14.13,"(2.85, 2.85)","(11.28, 16.98)",5.7,P-D,Sierra et al. (2015),146.95,False,SDSS,stellar,https://arxiv.org/pdf/1503.03864.pdf
 NGC 5921,NGC5921,137.5,"(0.0, 0.0)","(137.5, 137.5)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 5921,NGC5921,71.4,"(7.1, 7.1)","(64.3, 78.5)",14.2,model,Rautiainen & Laurikainen (2008),146.95,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 5921,NGC5921,71.4,"(7.1, 7.1)","(64.3, 78.5)",14.2,model,Rautiainen & Laurikainen (2008),146.95,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 5921,NGC5921,73.5,"(2.1, 2.1)","(71.4, 75.6)",4.2,morph,Elmegreen & Elmegreen (1995),146.95,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 5921,NGC5921,20.6,"(0.0, 0.0)","(20.6, 20.6)",0.0,potential-density,Buta & Zhang (2009),146.95,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 5921,NGC5921,65.0,"(8.0, 4.0)","(57.0, 69.0)",12.0,T-W,Fathi et al. (2009),146.95,False,Halpha,ISM,https://arxiv.org/pdf/0909.1816.pdf
@@ -1406,7 +1406,7 @@ NGC 6384,PGC 60459,107.6,"(11.2, 11.2)","(96.4, 118.8)",22.4,widths,Marchuk et a
 NGC 6384,NGC6384,131.7,"(0.0, 0.0)","(131.7, 131.7)",0.0,potential-density,Buta & Zhang (2009),185.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 6384,PGC 60459,114.0,"(12.4, 12.4)","(101.6, 126.4)",24.8,widths,Marchuk et al.,185.0,False,optical,stellar,https://arxiv.org/pdf/2309.16232.pdf
 NGC 6384,PGC60459,93.0,"(13.8, 13.8)","(79.2, 106.8)",27.6,morph,Elmegreen & Elmegreen (1995),185.0,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
-NGC 6384,NGC6384,72.5,"(8.1, 8.1)","(64.4, 80.6)",16.2,model,Rautiainen & Laurikainen (2008),185.0,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 6384,NGC6384,72.5,"(8.1, 8.1)","(64.4, 80.6)",16.2,model,Rautiainen & Laurikainen (2008),185.0,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 6384,NGC6384,68.7,"(0.0, 0.0)","(68.7, 68.7)",0.0,potential-density,Buta & Zhang (2009),185.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 6412,UGC10897,19.0,"(2.0, 2.0)","(17.0, 21.0)",4.0,F-B,F-B works,75.35,False,"Halpha, HI",ISM,
 NGC 6412,UGC10897,42.6,"(1.8, 1.8)","(40.8, 44.4)",3.6,F-B,F-B works,75.35,False,"Halpha, HI",ISM,
@@ -1444,7 +1444,7 @@ NGC 6764,UGC11407,3.3,"(1.7, 1.7)","(1.6, 5.0)",3.4,F-B,F-B works,68.75,False,"H
 NGC 6782,NGC6782,44.5,"(2.7, 2.7)","(41.8, 47.2)",5.4,gaps,Buta (2017),65.65,True,SDSS,stellar,https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.3819B/abstract
 NGC 6782,NGC6782,12.2,"(0.0, 0.0)","(12.2, 12.2)",0.0,potential-density,Buta & Zhang (2009),65.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 6782,NGC6782,27.6,"(0.0, 0.0)","(27.6, 27.6)",0.0,potential-density,Buta & Zhang (2009),65.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
-NGC 6782,NGC6782,37.1,"(2.6, 2.6)","(34.5, 39.7)",5.2,model,Rautiainen & Laurikainen (2008),65.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 6782,NGC6782,37.1,"(2.6, 2.6)","(34.5, 39.7)",5.2,model,Rautiainen & Laurikainen (2008),65.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 6814,NGC6814,45.0,"(0.0, 0.0)","(45.0, 45.0)",0.0,offset,del Rio & Cepa (1998),90.6,False,"B,I",stellar,http://articles.adsabs.harvard.edu/pdf/1998A%26A...340....1D
 NGC 6814,NGC6814,23.4,"(4.8, 4.8)","(18.6, 28.2)",9.6,morph,Elmegreen & Elmegreen (1995),90.6,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 6902,NGC6902,22.0,"(0.0, 0.0)","(22.0, 22.0)",0.0,potential-density,Buta & Zhang (2009),168.7,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1554,7 +1554,7 @@ NGC 7552,NGC7552,81.67,"(20.49, 20.49)","(61.18, 102.16)",40.97,offset,Abdeen et
 NGC 7552,NGC7552,87.6,"(29.4, 29.4)","(58.2, 117.0)",58.8,morph,Elmegreen & Elmegreen (1995),101.65,False,optical,stellar,http://articles.adsabs.harvard.edu/pdf/1995ApJ...445..591E
 NGC 7552,NGC7552,4.7,"(0.0, 0.0)","(4.7, 4.7)",0.0,potential-density,Buta & Zhang (2009),101.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 7552,NGC7552,72.05,"(10.87, 10.87)","(61.18, 82.92)",21.74,offset,Abdeen et al. (2020),101.65,False,"B,Spitzer,GALEX",stellar,https://arxiv.org/pdf/2002.02307.pdf
-NGC 7552,NGC7552,65.0,"(5.9, 5.9)","(59.1, 70.9)",11.8,model,Rautiainen & Laurikainen (2008),101.65,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 7552,NGC7552,65.0,"(5.9, 5.9)","(59.1, 70.9)",11.8,model,Rautiainen & Laurikainen (2008),101.65,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 7552,NGC7552,15.6,"(0.0, 0.0)","(15.6, 15.6)",0.0,potential-density,Buta & Zhang (2009),101.65,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 7563,NGC7563,41.89,"(14.59, 18.09)","(27.3, 59.98)",32.67,T-W,Cuomo et al. (2020),58.5,True,"CALIFA,MANGA,different",stellar,https://arxiv.org/pdf/2003.07455.pdf
 NGC 7582,NGC7582,74.3,"(0.0, 0.0)","(74.3, 74.3)",0.0,potential-density,Buta & Zhang (2009),150.35,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
@@ -1563,7 +1563,7 @@ NGC 7591,NGC7591,12.86,"(4.19, 6.44)","(8.66, 19.3)",10.64,T-W,Cuomo et al. (202
 NGC 7713,NGC7713,67.9,"(0.0, 0.0)","(67.9, 67.9)",0.0,potential-density,Buta & Zhang (2009),134.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 7713,NGC7713,55.7,"(0.0, 0.0)","(55.7, 55.7)",0.0,potential-density,Buta & Zhang (2009),134.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 7723,NGC 7723,23.0,"(0.0, 0.0)","(23.0, 23.0)",0.0,offset,Aguerri et al. (2000),104.0,False,,,https://ui.adsabs.harvard.edu/abs/2000A%26A...361..841A/abstract
-NGC 7723,NGC7723,33.5,"(4.2, 4.2)","(29.3, 37.7)",8.4,model,Rautiainen & Laurikainen (2008),104.0,False,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
+NGC 7723,NGC7723,33.5,"(4.2, 4.2)","(29.3, 37.7)",8.4,model,Rautiainen & Laurikainen (2008),104.0,True,H-band,stellar,https://arxiv.org/pdf/0806.0471.pdf
 NGC 7723,NGC7723,20.7,"(0.0, 0.0)","(20.7, 20.7)",0.0,potential-density,Buta & Zhang (2009),104.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
 NGC 7723,NGC7723S,35.0,"(0.0, 0.0)","(35.0, 35.0)",0.0,offset,del Rio & Cepa (1998),,False,"B,I",stellar,http://articles.adsabs.harvard.edu/pdf/1998A%26A...340....1D
 NGC 7723,NGC7723,9.3,"(0.0, 0.0)","(9.3, 9.3)",0.0,potential-density,Buta & Zhang (2009),104.0,False,H-band,stellar,https://iopscience.iop.org/article/10.1088/0067-0049/182/2/559/pdf
